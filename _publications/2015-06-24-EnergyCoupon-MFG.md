@@ -1,7 +1,7 @@
 ---
 title: "Energy coupon: A mean field game perspective on demand response in smart grids"
 collection: publications
-permalink: /publication/2015-06-24-EnergyCoupon-MFG.md
+permalink: /publication/2015-06-24-EnergyCoupon-MFG
 excerpt: 'Load Serving Entity (LSE) trying to reduce its exposure to electricity market volatility by sending coupons and lotteries to its customers for demand shifting.'
 date: 2015-06-24
 venue: 'ACM SIGMETRICS Performance Evaluation Review'
