@@ -11,12 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Electrical Engineering, Tsinghua University, Beijing, China, 2009-2013
+* M.S. in Electrical and Computer Engineering, Texas A&M University, College Station, TX, 2013-2015
+* Ph.D in Electrical and Computer Engineering, Texas A&M University, 2015-2018 (expected)
 
-Work experience
+Professional Experience
 ======
+* Fall 2018: Visiting Student
+  * MIT Laboratory for Information & Decision Systems (LIDS)
+  * MIT (IDSS) Institute for Data, Systems, and Society
+
+* Spring 2018: Visiting Student
+  * Simons Institute for the Theorey of Computing
+  * Real-time Decision Making Program
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
