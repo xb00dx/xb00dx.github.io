@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinbo Gengss"
+title                    : "Xinbo Geng"
 title_separator          : "-"
 name                     : &name "Xinbo Geng"
 description              : &description "personal description"
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Xinbo Geng"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Math and Prog."
+  location         : "College Station, TX"
+  employer         : "Texas A&M University"
+  googlescholar    : "https://scholar.google.com/citations?user=9GQBojYAAAAJ&hl=en&oi=ao"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/xb00dx"
   google_plus      :
   keybase          :
   instagram        :

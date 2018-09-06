@@ -17,22 +17,31 @@ Education
 
 Professional Experience
 ======
+* 2014-Present: Research Assistant
+  * Texas A&M University, College Station, TX.
+  * Supervisor: Dr. Le Xie.
+
 * Fall 2018: Visiting Student
-  * MIT Laboratory for Information & Decision Systems (LIDS)
-  * MIT (IDSS) Institute for Data, Systems, and Society
+  * MIT Laboratory for Information & Decision Systems (LIDS).
+  * MIT (IDSS) Institute for Data, Systems, and Society.
 
 * Spring 2018: Visiting Student
-  * Simons Institute for the Theory of Computing
-  * Real-time Decision Making Program
+  * Simons Institute for the Theory of Computing.
+  * Real-time Decision Making Program.
 
 * Fall 2015: Teaching Assistant
-  * Texas A&M University, College Station, TX
-  * Data Sciences in Modern Power Systems
+  * Texas A&M University, College Station, TX.
+  * Data Sciences in Modern Power Systems.
 
-* 2014-Present: Research Assistant
-  * Texas A&M University, College Station, TX
-  * Supervisor: Dr. Le Xie
+* Spring 2013: Intern
+  * Texas Instruments, Beijing, China.
+  * ET(Education Technology) Dept.
+
+* Summer 2012: Manager Assistant
+  * ABB Inc., Beijing, China.
+  * Finish Goods Production Department.
   
+
 Skills
 ======
 * Python, Matlab, R, Shell/bash, TeX/LaTeX.
