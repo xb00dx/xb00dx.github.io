@@ -1,9 +1,9 @@
 ---
 title: "Energy coupon: A mean field game perspective on demand response in smart grids"
 collection: publications
-permalink: /publication/2015-06-24-EnergyCoupon-MFG
+permalink: /publication/2015-06-EnergyCouponMFG-ACMPER
 excerpt: 'Load Serving Entity (LSE) trying to reduce its exposure to electricity market volatility by sending coupons and lotteries to its customers for demand shifting.'
-date: 2015-06-24
+date: 2015-06
 venue: 'ACM SIGMETRICS Performance Evaluation Review'
 paperurl: 'https://dl.acm.org/citation.cfm?id=2745890'
 citation: 'Li, Jian, Bainan Xia, <b>Xinbo Geng</b>, Hao Ming, Srinivas Shakkottai, Vijay Subramanian, and Le Xie. "Energy coupon: A mean field game perspective on demand response in smart grids." <i>ACM SIGMETRICS Performance Evaluation Review 43</i>, no. 1 (2015): 455-456.'
