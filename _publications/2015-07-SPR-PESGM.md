@@ -1,9 +1,9 @@
 ---
 title: "A data-driven approach to identifying system pattern regions in market operations"
 collection: publications
-permalink: /publication/2015-07-SPR-PESGM
+permalink: /publication/2015-07-26-SPR-PESGM
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2015-07
+date: 2015-07-26
 venue: 'IEEE Power & Energy Society General Meeting (PESGM)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7285827/'
 citation: '<b>Geng, Xinbo</b>, and Le Xie. "A data-driven approach to identifying system pattern regions in market operations." In Power & Energy Society General Meeting, 2015 IEEE, pp. 1-5. IEEE, 2015.'
