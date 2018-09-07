@@ -80,12 +80,12 @@ analytics:
 # Site Author
 author:
   name             : "Xinbo Geng"
-  avatar           : "profile.png"
-  bio              : "Time Enough For Love. Math Enough For Life."
+  avatar           : "profile.jpg"
+  bio              : "Time Enough For Love.<br>Math Enough For Life."
   location         : "College Station, TX"
   employer         : "Texas A&M University"
   googlescholar    : "https://scholar.google.com/citations?user=9GQBojYAAAAJ&hl=en&oi=ao"
-  email            : 
+  email            : "xbgeng[?]tamu.edy"
   uri              :
   bitbucket        :
   codepen          :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :
