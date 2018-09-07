@@ -3,7 +3,7 @@ title: "A control system framework for privacy preserving demand response of the
 collection: publications
 permalink: /publication/2015-11-PrivacyDR-SmartGridComm
 excerpt: 'Three questions for Load Serving Entities (LSEs): how to control the total demand of a set of loads, and also what to control it to, all while respecting constraints on load states, as well as maintaining privacy of load states.'
-date: 2015-11
+date: 2015-11-12
 venue: '2015 IEEE International Conference on Smart Grid Communications (SmartGridComm)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7436297/'
 citation: 'Haider, Abhishek, <b>Xinbo Geng</b>, Gaurav Sharma, Le Xie, and P. R. Kumar. "A control system framework for privacy preserving demand response of thermal inertial loads." In Smart Grid Communications (SmartGridComm), 2015 IEEE International Conference on, pp. 181-186. IEEE, 2015.'

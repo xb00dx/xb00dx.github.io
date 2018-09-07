@@ -3,7 +3,7 @@ title: "Learning the LMP-Load Coupling From Data: A Support Vector Machine Based
 collection: publications
 permalink: /publication/2017-03-MLPLMPSVM-TPS
 excerpt: '(1) Understanding the geometric and structural properties of the Economic Dispatch probem; (2) Learning the underlying structure from electricity market data.'
-date: 2017-03
+date: 2017-03-15
 venue: 'IEEE Transactions on Power Systems ( Volume: 32, Issue: 2, March 2017)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7478156/'
 citation: '<b>Geng, Xinbo</b>, and Le Xie. "Learning the LMP-load coupling from data: A support vector machine based approach." IEEE Transactions on Power Systems 32, no. 2 (2017): 1127-1138.'

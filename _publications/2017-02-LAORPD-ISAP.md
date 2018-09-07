@@ -3,7 +3,7 @@ title: "Voltage security constrained look-ahead coordination of reactive power s
 collection: publications
 permalink: /publication/2017-02-LAORPD-ISAP
 excerpt: 'A Look-ahead (MPC-like) version of the optimal reactive power dispatch problem (LA-ORPD).'
-date: 2017-09
+date: 2017-09-03
 venue: '2017 19th International Conference on Intelligent System Application to Power Systems (ISAP)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8071416/'
 citation: '<b>Geng, Xinbo</b>, Le Xie, and Diran Obadina. "Voltage security constrained look-ahead coordination of reactive power support devices with high renewables." In Intelligent System Application to Power Systems (ISAP), 2017 19th International Conference on, pp. 1-6. IEEE, 2017.'
