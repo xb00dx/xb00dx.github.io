@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.E. in Electrical Engineering, Tsinghua University, Beijing, China, 2009-2013
-* M.S. in Electrical and Computer Engineering, Texas A&M University, 2013-2015
 * Ph.D in Electrical and Computer Engineering, Texas A&M University, 2015 - Present
+* M.S. in Electrical and Computer Engineering, Texas A&M University, 2013-2015
+* B.E. in Electrical Engineering, Tsinghua University, Beijing, China, 2009-2013
 
 Professional Experience
 ======
@@ -23,11 +23,15 @@ Professional Experience
 
 * Fall 2018: Visiting Student
   * MIT Laboratory for Information & Decision Systems (LIDS).
-  * MIT (IDSS) Institute for Data, Systems, and Society.
+  * MIT Institute for Data, Systems, and Society (IDSS).
 
 * Spring 2018: Visiting Student
-  * Simons Institute for the Theory of Computing.
-  * Real-time Decision Making Program.
+  * Simons Institute for the Theory of Computing, University of California, Berkeley.
+  * Attending the Real-time Decision Making Program.
+
+* Summer 2017: Student Intern
+  * ISO New England (ISO-NE), Holyoke, MA.
+  * Transmission operation data analytics.
 
 * Fall 2015: Teaching Assistant
   * Texas A&M University, College Station, TX.
