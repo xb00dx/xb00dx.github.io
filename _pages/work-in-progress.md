@@ -8,6 +8,11 @@ redirect_from:
   - "/wip.html"
 ---
 
+Upcoming Deadlines
+======
+. [Dec.30.2018] submission to ARiCS
+. 
+
 Sep.16 -- Sep.22.2018
 ======
 - [ ] simulation results of cc-UC
@@ -45,7 +50,8 @@ Sep.16 -- Sep.22.2018
   - [ ] guitar
 
 
-
 Sep.23 -- Sep.29.2018
 ======
-- [ ] thoughts on PES General meeting
+- [ ] thoughts on PES General Meeting
+  - (data-driven?) robust network reconfiguration?
+  - chance-constrained something?
