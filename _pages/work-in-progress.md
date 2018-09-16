@@ -8,13 +8,14 @@ redirect_from:
   - "/wip.html"
 ---
 
-Upcoming Deadlines
-======
-. [Dec.30.2018] submission to ARiCS
-. 
+### Upcoming Deadlines
 
-Sep.16 -- Sep.22.2018
-======
+1. [Sep.31.2018] cc-SCUC DDL
+1. [Nov.7.2018] PESGM DDL 
+1. [Dec.30.2018] submission to ARiCS
+
+### Sep.16 -- Sep.22.2018
+
 - [ ] simulation results of cc-UC
 - [ ] submission of HICSS-52 paper
 - [ ] thoughts
