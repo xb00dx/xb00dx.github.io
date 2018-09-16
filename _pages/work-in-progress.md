@@ -8,10 +8,41 @@ redirect_from:
   - "/wip.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
-
-Heading 1
+Sep.16 -- Sep.22.2018
 ======
+* (Sun)
+..* (Sun am)
+..* (Sun pm)
+..* (Sun eve)
+* (Mon)
+..* (am)
+..* (pm)
+..* (eve)
+* (Tue)
+..* (am)
+..* (pm)
+..* (eve)
+* (Wed)
+..* (am)
+..* (pm)
+..* (eve)
+* (Thu)
+..* (am)
+..* (pm)
+..* (eve)
+* (Fri)
+..* (am)
+..* (pm)
+..* (eve)
+* ()
+..* (am)
+..* (pm)
+..* (eve)
+* (Sat)
+..* (am)
+..* (pm)
+..* (eve)
 
-Heading 2
+
+Sep.23 -- Sep.29.2018
 ======
