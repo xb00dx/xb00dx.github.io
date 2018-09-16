@@ -10,15 +10,17 @@ redirect_from:
 
 Sep.16 -- Sep.22.2018
 ======
-..* (Sun am)
-..* (Sun pm)
-..* (Sun eve)
-..* (am)
-..* (pm)
-..* (eve)
-..* (am)
-..* (pm)
-..* (eve)
+
+* (Sun am)
+* (Sun pm)
+* (Sun eve)
+* (am)
+* (pm)
+* (eve)
+* (am)
+* (pm)
+* (eve)
+
 ..* (am)
 ..* (pm)
 ..* (eve)
