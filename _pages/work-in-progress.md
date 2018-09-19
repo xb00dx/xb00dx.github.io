@@ -24,30 +24,38 @@ redirect_from:
 - [ ] thoughts
 
 * (Sun)
-  - [ ] creating WIP page
-  - [ ] download NLP course videos
-  - [ ] back to Boston
-  - [ ] checking the UC code
-  - [ ] checking the optimizer function
+  - [x] creating WIP page
+  - [x] download NLP course videos
+  - [x] back to Boston
+  - [x] checking the UC code
+  - [x] checking the optimizer function
   - [ ] watch NLP course video
-  - [ ] marking my schedule next week
+  - [x] marking my schedule next week
 * (Mon) 
   - [ ] review TSG paper
-  - [ ] making slides for the meeting with Swati
+  - [x] making slides for the meeting with Swati
   - [ ] implement scenario approach in YALMIP
   - [ ] check the proof by Bertismas
-  - [ ] Bertsimas's course, and stat learning course
-  - [ ] discussion with Manolis
-  - [ ] guitar
+  - [x] Bertsimas's course, and stat learning course
+  - [x] discussion with Manolis
+  - [x] guitar
 * (Tue)
+  - [x] prepare slides for Dr. Xie
+  - [x] orientation
+  - [x] send the email to Bertsimas's student
   - [ ] watch NLP course video
-  - [ ] Discussion with Swati
+  - [x] Discussion with Swati
   - [ ] find support scenario
   - [ ] implement sc-UC in scenario approach
+  - [ ] check the INFORMS schedule, book flight tickets
   - [ ] guitar
+  - [x] check the Matlab syntax of commenting
 * (Wed)
   - [ ] finish coding on scenario approach
-  - [ ] stat learning and Bertsimas's course
+  - [x] stat learning and Bertsimas's course
+  - [ ] exercise plan
+  - [ ] run for 5km
+  - [ ] download the references of stat learning course
   - [ ] guitar
 * (Thu)
   - [ ] watch NLP course video
