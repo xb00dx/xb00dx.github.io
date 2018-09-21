@@ -53,8 +53,8 @@ redirect_from:
 * (Wed)
   - [ ] finish coding on scenario approach
   - [x] stat learning and Bertsimas's course
-  - [ ] exercise plan
-  - [ ] run for 5km
+  - [x] exercise plan
+  - [x] run for 5km
   - [ ] download the references of stat learning course
   - [ ] guitar
 * (Thu)
@@ -64,10 +64,17 @@ redirect_from:
   - [ ] my formulation of cc-ACOPF
   - [ ] guitar
 * (Fri)
+  - [x] submission to HICSS
+  - [x] discussion with Manolis
+  - [ ] implement cc-UC code using ccc
+  - [ ] exercise
   - [ ] guitar
 * (Sat)
-  - [ ] 
+  - [ ] s
   - [ ] pick up XF
+  - [ ] put HICSS-52 paper on arxiv
+  - [ ] put modifier PESGM paper on arxiv
+  - [ ] create google scholar items for two papers
   - [ ] shopping at outlet
   - [ ] guitar
 
