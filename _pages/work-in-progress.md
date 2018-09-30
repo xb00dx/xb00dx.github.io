@@ -11,133 +11,98 @@ redirect_from:
 ### Upcoming Deadlines
 
 1. [Sep.31.2018] cc-SCUC DDL
-1. [Sep.30.2018] review TPS paper
-1. [Oct.10.2018] review cc-ACOPF paper
+1. [Oct.5.2018] review TPW paper
+1. [Oct.17.2018] review TSG paper
 1. [Nov.7.2018] PESGM DDL 
+  - if can solve the cross-terms in ENR, then write this
+  - or, write data-driven robust optimal topology ?? LASSO, regularizer, robust opt view of the results 
+  - otw, chance-constrained something?
 1. [Dec.30.2018] submission to ARiCS
 
 
-### Sep.23 -- Sep.29.2018
-- [ ] thoughts on PES General Meeting
-  - (data-driven?) robust network reconfiguration?
-  - chance-constrained something?
-- [ ] Review TPS paper
-- [ ] discussion with Manolis
-- [ ] discussion with Ali
-- [ ] implement things related with Robust Optimization
-  - test on phase balancing
-  - test on UC
-- [ ] simulation results of cc-UC
-
-
+### Sep.30 -- Oct.06.2018
+* (Sat)
+  - [x] review TPS paper-1 (1h)
+  - [x] review TPS paper-2 (2h)
+  - [x] put HICSS-52 paper on arxiv (0.5h)
+  - [ ] put modified PESGM paper on arxiv (0.5h)  
+  - [x] create google scholar items for two papers (0.5h)
+  - [ ] submit expense report (0.5h)  
+  - [ ] check the INFORMS schedule, book flight tickets (0.5h)   
+  - [x] skype with Ali
+  - [x] update slides and share with Ali
 * (Sun)
-  - [ ] creating WIP page
-  - x hiking
+  - [x] creating WIP page (0.5h)
+  - [ ] prepare results for the ERCOT project (1h)
+  - [ ] prepare slides for the ERCOT project (1h)  
+  - [x] baby shower 
+  - [ ] implement factor CLT model (1h)
+  - [ ] debug factor CLT model (1h)
+  - [ ] watch NLP course video (1h)
+  - [ ] expense on splitwise
+  - [ ] check the proof on strong SOCP relaxation (1h)
+  - [ ] guitar (0.5h)
 * (Mon) 
-  - [ ] review TSG paper
-  - [x] making slides for the meeting with Swati
-  - [ ] implement scenario approach in YALMIP
-  - [ ] check the proof by Bertismas
-  - [x] Bertsimas's course, and stat learning course
-  - [ ] discussion with Manolis
-  - [x] guitar
+  - [ ] search real-world phase balancing data (1h)
+  - [ ] examine the phase balancing data (1h)
+  - [ ] get renewable/load data from Hanyue (1h) 
+  - [ ] Bertsimas's course (1.5h)
+  - [ ] Stat learning course (1.5h)
+  - [ ] read cc-ACOPF paper (0.5h)  
+  - [ ] exercise 
+  - [ ] guitar
 * (Tue)
   - [ ] implement 1-stage sc-UC (2h)
-  - [ ] find support scenario (1h)
-  - [ ] CLT set with factor model (2h)  
-  - [ ] read TPS paper (0.5h)
+  - [ ] debug 1-stage sc-UC (1h)
+  - [ ] think on improving support scenario finding algorithms (2h)
+  - [ ] read cc-ACOPF paper and write my formulation (3h)
   - [ ] watch NLP course video (1h)
-  - [ ] submit expense report (0.5h)
-  - [ ] check the INFORMS schedule, book flight tickets (0.5h)  
-  - [ ] exercise (1.5h)   
-  - [ ] guitar (0.5h)
-* (Wed)
-  - [ ] finish coding on scenario approach
-  - [ ] read all slides for Bertsimas' course
-  - [ ] stat learning and Bertsimas's course
-  - [ ] run for 5km
-  - [ ] download the references of stat learning course
+  - [ ] exercise
+  - [ ] guitar
+* (Wed) 
+  - [ ] implement phase balancing with factor CLT model (1h)
+  - [ ] compare results of factor CLT with previous box set (0.5h)
+  - [ ] implement multi-stage sc-UC (0.5h)
+  - [ ] debug/analyze multi-stage sc-UC (1.5h)
+  - [ ] Bertsimas's course (1.5h)
+  - [ ] Stat learning course (1.5h)
+  - [ ] run for 5km (1h)
   - [ ] guitar
 * (Thu)
-  - [ ] watch NLP course video
-  - [ ] read Dan Wu's paper
-  - [ ] review cc-ACOPF paper
-  - [ ] my formulation of cc-ACOPF
+  - [ ] check the sc-SCUC paper, with new outline (1h)
+  - [ ] think on analytical results of scenario problem (1h)
+  - [ ] simulation results of cc-UC, small system (1h)
+  - [ ] test simulation results of the big system (2h)
+  - [ ] watch NLP course video (1h)
   - [ ] exercise  
   - [ ] guitar
 * (Fri)
-  - [x] submission to HICSS
-  - [x] discussion with Manolis
-  - [ ] discussion with Ali 
-  - [ ] exercise
-  - [ ] guitar
+  - [ ] read and review cc-ACOPF paper (3h)
+  - [ ] think about the feasibility issue of r-ACOPF, read Eliyan Bitar's paper (2h)
+  - [ ] think on the projected feasibility region of ACOPF (2h)
+  - [ ] debug the sc-UC code for large-scale system (1h)
 * (Sat)
-  - [ ] s
-  - [ ] pick up XF
-  - [ ] put HICSS-52 paper on arxiv
-  - [ ] put modifier PESGM paper on arxiv
-  - [ ] create google scholar items for two papers
-  - [ ] shopping at outlet
+  - [ ] discussion with Ali (1h)
+  - [ ] watch NLP course video (1h)
+  - [ ] solve homework problems of the NLP course (2h)
+  - [ ] PESGM paper idea
   - [ ] guitar  
 
+### Next
+#### High Priority
+- [ ] read Ahmad's paper
+- [ ] read Dan Wu's paper
+- [ ] read all slides for Bertsimas' course
 
-### Sep.16 -- Sep.22.2018
+#### Low Priority
+- [ ] download the references of stat learning course
+- [ ] check the proof by Bertismas
 
-- [ ] simulation results of cc-UC
-- [x] submission of HICSS-52 paper
-- [ ] thoughts
-
-* (Sun)
-  - [x] creating WIP page
-  - [x] download NLP course videos
-  - [x] back to Boston
-  - [x] checking the UC code
-  - [x] checking the optimizer function
-  - [ ] watch NLP course video
-  - [x] marking my schedule next week
-* (Mon) 
-  - [ ] review TSG paper
-  - [x] making slides for the meeting with Swati
-  - [ ] implement scenario approach in YALMIP
-  - [ ] check the proof by Bertismas
-  - [x] Bertsimas's course, and stat learning course
-  - [x] discussion with Manolis
-  - [x] guitar
-* (Tue)
-  - [x] prepare slides for Dr. Xie
-  - [x] orientation
-  - [x] send the email to Bertsimas's student
-  - [ ] watch NLP course video
-  - [x] Discussion with Swati
-  - [ ] find support scenario
-  - [ ] implement sc-UC in scenario approach
-  - [ ] check the INFORMS schedule, book flight tickets
-  - [ ] guitar
-  - [x] check the Matlab syntax of commenting
-* (Wed)
-  - [ ] finish coding on scenario approach
-  - [x] stat learning and Bertsimas's course
-  - [x] exercise plan
-  - [x] run for 5km
-  - [ ] download the references of stat learning course
-  - [ ] guitar
-* (Thu)
-  - [ ] watch NLP course video
-  - [ ] read Dan Wu's paper
-  - [ ] review cc-ACOPF paper
-  - [ ] my formulation of cc-ACOPF
-  - [ ] guitar
-* (Fri)
-  - [x] submission to HICSS
-  - [x] discussion with Manolis
-  - [ ] implement cc-UC code using ccc
-  - [ ] exercise
-  - [ ] guitar
-* (Sat)
-  - [ ] s
-  - [ ] pick up XF
-  - [ ] put HICSS-52 paper on arxiv
-  - [ ] put modifier PESGM paper on arxiv
-  - [ ] create google scholar items for two papers
-  - [ ] shopping at outlet
-  - [ ] guitar  
+#### Review
+- (Oct.1) SA
+- (Oct.1) F-CLT
+- (Oct.15) DRO
+- (Oct.22) SAA
+- (Nov.15) CR
+- (Nov.31) others
+- (Dec.30) submission 
