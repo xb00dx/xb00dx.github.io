@@ -27,7 +27,7 @@ redirect_from:
   - [x] put HICSS-52 paper on arxiv (0.5h)
   - [ ] put modified PESGM paper on arxiv (0.5h)  
   - [x] create google scholar items for two papers (0.5h)
-  - [ ] submit expense report (0.5h)  
+  - [x] submit expense report (0.5h)  
   - [ ] check the INFORMS schedule, book flight tickets (0.5h)   
   - [x] skype with Ali
   - [x] update slides and share with Ali
@@ -36,20 +36,21 @@ redirect_from:
   - [ ] prepare results for the ERCOT project (1h)
   - [ ] prepare slides for the ERCOT project (1h)  
   - [x] baby shower 
-  - [ ] implement factor CLT model (1h)
-  - [ ] debug factor CLT model (1h)
+  - [x] implement factor CLT model (1h)
+  - [?] debug factor CLT model (1h)
   - [ ] watch NLP course video (1h)
-  - [ ] expense on splitwise
+  - [x] expense on splitwise
   - [ ] check the proof on strong SOCP relaxation (1h)
-  - [ ] guitar (0.5h)
+  - [^] guitar (0.5h)
 * (Mon) 
+  - [x] debug CLT uncertainty set
   - [ ] search real-world phase balancing data (1h)
   - [ ] examine the phase balancing data (1h)
   - [ ] get renewable/load data from Hanyue (1h) 
-  - [ ] Bertsimas's course (1.5h)
-  - [ ] Stat learning course (1.5h)
+  - [x] Bertsimas's course (1.5h)
+  - [^] Stat learning course (1.5h)
   - [ ] read cc-ACOPF paper (0.5h)  
-  - [ ] exercise 
+  - [ ] exercise (1.5h)
   - [ ] guitar
 * (Tue)
   - [ ] implement 1-stage sc-UC (2h)
