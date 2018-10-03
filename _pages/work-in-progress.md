@@ -33,8 +33,8 @@ redirect_from:
   - [x] update slides and share with Ali
 * (Sun)
   - [x] creating WIP page (0.5h)
-  - [ ] prepare results for the ERCOT project (1h)
-  - [ ] prepare slides for the ERCOT project (1h)  
+  - [x] prepare results for the ERCOT project (1h)
+  - [x] prepare slides for the ERCOT project (1h)  
   - [x] baby shower 
   - [x] implement factor CLT model (1h)
   - [?] debug factor CLT model (1h)
@@ -49,6 +49,7 @@ redirect_from:
   - [ ] get renewable/load data from Hanyue (1h) 
   - [x] Bertsimas's course (1.5h)
   - [^] Stat learning course (1.5h)
+  - [x] think on simplified model for distflow (failed)
   - [ ] read cc-ACOPF paper (0.5h)  
   - [ ] exercise (1.5h)
   - [ ] guitar
@@ -57,6 +58,7 @@ redirect_from:
   - [ ] debug 1-stage sc-UC (1h)
   - [ ] think on improving support scenario finding algorithms (2h)
   - [ ] read cc-ACOPF paper and write my formulation (3h)
+  - [ ] sparsity-based reconfiguration (3h)
   - [ ] watch NLP course video (1h)
   - [ ] exercise
   - [ ] guitar
