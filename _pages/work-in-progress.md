@@ -19,6 +19,9 @@ redirect_from:
   - otw, chance-constrained something?
 1. [Dec.30.2018] submission to ARiCS
 
+Case studies
+1. 3 bus, 2 gen, 1 wind, 1 load, load profiles, wind profiles, no contingency
+2. 118-bus sysmte (NREL)
 
 ### Sep.30 -- Oct.06.2018
 * (Sat)
@@ -28,7 +31,7 @@ redirect_from:
   - [ ] put modified PESGM paper on arxiv (0.5h)  
   - [x] create google scholar items for two papers (0.5h)
   - [x] submit expense report (0.5h)  
-  - [ ] check the INFORMS schedule, book flight tickets (0.5h)   
+  - [x] check the INFORMS schedule, book flight tickets (0.5h)   
   - [x] skype with Ali
   - [x] update slides and share with Ali
 * (Sun)
@@ -46,7 +49,7 @@ redirect_from:
   - [x] debug CLT uncertainty set
   - [ ] search real-world phase balancing data (1h)
   - [ ] examine the phase balancing data (1h)
-  - [ ] get renewable/load data from Hanyue (1h) 
+  - [x] get renewable/load data from Hanyue (1h) 
   - [x] Bertsimas's course (1.5h)
   - [^] Stat learning course (1.5h)
   - [x] think on simplified model for distflow (failed)
@@ -58,8 +61,8 @@ redirect_from:
   - [ ] read cc-ACOPF paper and write my formulation (3h)
   - [x] sparsity-based reconfiguration (3h)
   - [ ] watch NLP course video (1h)
-  - [ ] exercise
-  - [ ] guitar
+  - [^] exercise
+  - [^] guitar
 * (Wed) 
   - [ ] implement phase balancing with factor CLT model (1h)
   - [ ] compare results of factor CLT with previous box set (0.5h)
@@ -67,8 +70,8 @@ redirect_from:
   - [ ] debug/analyze multi-stage sc-UC (1.5h)
   - [^] Bertsimas's course (1.5h)
   - [x] Stat learning course (1.5h)
-  - [x] run for 5km (1h)
-  - [ ] guitar
+  - [^] run for 5km (1h)
+  - [^] guitar
 * (Thu)
   - [ ] change the obj according to Fred
   - [ ] implement 1-stage sc-UC (2h)
