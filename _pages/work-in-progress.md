@@ -54,11 +54,9 @@ redirect_from:
   - [ ] exercise (1.5h)
   - [ ] guitar
 * (Tue)
-  - [ ] implement 1-stage sc-UC (2h)
-  - [ ] debug 1-stage sc-UC (1h)
-  - [ ] think on improving support scenario finding algorithms (2h)
+  - [x] think on improving support scenario finding algorithms (2h)
   - [ ] read cc-ACOPF paper and write my formulation (3h)
-  - [ ] sparsity-based reconfiguration (3h)
+  - [x] sparsity-based reconfiguration (3h)
   - [ ] watch NLP course video (1h)
   - [ ] exercise
   - [ ] guitar
@@ -67,11 +65,14 @@ redirect_from:
   - [ ] compare results of factor CLT with previous box set (0.5h)
   - [ ] implement multi-stage sc-UC (0.5h)
   - [ ] debug/analyze multi-stage sc-UC (1.5h)
-  - [ ] Bertsimas's course (1.5h)
-  - [ ] Stat learning course (1.5h)
-  - [ ] run for 5km (1h)
+  - [^] Bertsimas's course (1.5h)
+  - [x] Stat learning course (1.5h)
+  - [x] run for 5km (1h)
   - [ ] guitar
 * (Thu)
+  - [ ] change the obj according to Fred
+  - [ ] implement 1-stage sc-UC (2h)
+  - [ ] debug 1-stage sc-UC (1h)
   - [ ] check the sc-SCUC paper, with new outline (1h)
   - [ ] think on analytical results of scenario problem (1h)
   - [ ] simulation results of cc-UC, small system (1h)
@@ -85,11 +86,12 @@ redirect_from:
   - [ ] think on the projected feasibility region of ACOPF (2h)
   - [ ] debug the sc-UC code for large-scale system (1h)
 * (Sat)
-  - [ ] discussion with Ali (1h)
   - [ ] watch NLP course video (1h)
   - [ ] solve homework problems of the NLP course (2h)
   - [ ] PESGM paper idea
   - [ ] guitar  
+* (Sun)
+  - [ ] multi-stage SCUC
 
 ### Next
 #### High Priority
