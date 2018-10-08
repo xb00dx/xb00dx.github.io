@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+- An engineer with specialized expertise in power system economics and operations.
 - A PhD Student enjoying mathematics and programming.
-- A power system engineer with specialized expertise in power system economics and operations.
 - A passionate researcher with interests on stochastic optimization, machine learning and data science.
 
 ## News 
