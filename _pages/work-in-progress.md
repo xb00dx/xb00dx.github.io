@@ -53,40 +53,49 @@ Case studies
 2. 118-bus system (NREL)
 3. Larger system, with real-world data?
 
-
-### Oct.07 -- Oct.13.2018
+### Oct.21 -- Oct.27.2018
 * (Mon) 
-  - [ ] finish reviewing cc-ACOPF paper (3h)
+  - [ ] read the section in Computational Learning Theory Chap. VC
+  - [ ] Reading the proof in Zhang's paper 
+  - [ ] Stat Learning Course
+  - [ ] Matrix function seminar
+  - [ ] LIDS seminar/Machine Learning Course
+  - [ ] run for 5 km (night)
+  - [ ] plot the 3-bus system results 
   - [ ] exercise (1.5h) 
   - [ ] guitar
 * (Tue) 
-  - [ ] modify formulation, wind is dispatchable
-  - [ ] implement 1-stage sc-UC, 3-bus (2h)
-  - [ ] debug 1-stage sc-UC, 3-bus (1h)  
-  - [ ] code to find support scenarios
+  - [ ] think about better bounds
+  - [ ] read about VC dimension, the textbook
+  - [ ] collect the key findings
+  - [ ] come up with the conjecture
+  - [ ] prepare for the LIDS tea talk
+  - [ ] exercise 
+  - [ ] guitar 
 * (Wed) 
-  - [ ] on the bus
-    - [ ] simulation results of sc-UC (2h)
-    - [ ] read Lee-Chan's paper (1h)
-    - [ ] analyze sc-UC results (1h)
-    - [ ] collect results in slides
-  - [ ] LIDS tea talk (1h) 
+  - [ ] thinking on the proof
+  - [ ] College of Computation Info Session
+  - [ ] My LIDS tea talk (0.5h) 
   - [ ] Stat learning course (1.5h) 
+  - [ ] CLT set for phase balancing
   - [ ] Machine Learning course (1.5h) 
-  - [ ] implement multi-stage sc-UC (0.5h) 
+  - [ ] document the findings (2h) 
   - [ ] run for 5 miles (gym) 
+  - [ ] exercise 
+  - [ ] guitar  
 * (Thu) 
-  - [ ] implement multi-stage sc-UC (0.5h) 
+  - [ ] Large Scale Test Case
   - [ ] read the data-driven RO paper (1h) 
   - [ ] meet Dr. Xie (results) (1h)
   - [ ] how to explain the difficulty of cc-ACOPF
   - [ ] exercise 
   - [ ] guitar 
 * (Fri) 
-  - [ ] talk to Dong-chan (1h) 
   - [ ] debug/analyze multi-stage sc-UC (1.5h)
   - [ ] check the sc-SCUC paper, with new outline (1h) 
   - [ ] test simulation results of the big system (2h) 
+  - [ ] exercise 
+  - [ ] guitar 
 * (Sat) 
   - [ ] examine the phase balancing data (1h) 
   - [ ] factor model on phase balancing (1h) 
