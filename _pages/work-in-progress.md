@@ -11,10 +11,10 @@ redirect_from:
 ### Upcoming Deadlines
 
 1. [Oct.31.2018] cc-SCUC DDL
-1. [Oct.5.2018] review TPW paper
-  - if can solve the cross-terms in ENR, then write this
-  - or, write data-driven robust optimal topology ?? LASSO, regularizer, robust opt view of the results 
-  - otw, chance-constrained something?
+1. [Oct.31.2018] DDL for ACC paper
+1. [Nov.12.2018] DDL for TPWRS paper
+1. [Nov.16.2018] DDL for TPWRS paper
+1. [Nov.19.2018] DDL for TPWRS paper
 1. [Dec.30.2018] submission to ARiCS
   - [ ] scenario approach
     - [ ] find support constraints
@@ -55,39 +55,37 @@ Case studies
 
 ### Oct.21 -- Oct.27.2018
 * (Mon) 
-  - [ ] read the section in Computational Learning Theory Chap. VC
-  - [ ] Reading the proof in Zhang's paper 
-  - [ ] Stat Learning Course
-  - [ ] Matrix function seminar
-  - [ ] LIDS seminar/Machine Learning Course
-  - [ ] run for 5 km (night)
-  - [ ] plot the 3-bus system results 
-  - [ ] exercise (1.5h) 
-  - [ ] guitar
+  - [x] read the section in Computational Learning Theory Chap. VC
+  - [x] Reading the proof in Zhang's paper 
+  - [x] Stat Learning Course
+  - [^] Matrix function seminar
+  - [x] LIDS seminar/Machine Learning Course
+  - [^] run for 5 km (night)
+  - [^] plot the 3-bus system results 
+  - [^] exercise (1.5h) 
+  - [^] guitar
 * (Tue) 
-  - [ ] think about better bounds
-  - [ ] read about VC dimension, the textbook
-  - [ ] collect the key findings
-  - [ ] come up with the conjecture
-  - [ ] prepare for the LIDS tea talk
-  - [ ] exercise 
-  - [ ] guitar 
+  - [x] think about better bounds
+  - [x] read about VC dimension, the textbook
+  - [x] collect the key findings
+  - [x] come up with the conjecture
+  - [x] prepare for the LIDS tea talk
+  - [^] exercise 
+  - [^] guitar 
 * (Wed) 
-  - [ ] thinking on the proof
-  - [ ] College of Computation Info Session
-  - [ ] My LIDS tea talk (0.5h) 
-  - [ ] Stat learning course (1.5h) 
-  - [ ] CLT set for phase balancing
-  - [ ] Machine Learning course (1.5h) 
-  - [ ] document the findings (2h) 
-  - [ ] run for 5 miles (gym) 
-  - [ ] exercise 
-  - [ ] guitar  
+  - [x] thinking on the proof
+  - [x] College of Computation Info Session
+  - [x] My LIDS tea talk (0.5h) 
+  - [^] Stat learning course (1.5h) 
+  - [x] Machine Learning course (1.5h) 
+  - [x] document the findings (2h) 
+  - [^] run for 5 miles (gym) 
+  - [^] exercise 
+  - [^] guitar  
 * (Thu) 
-  - [ ] Large Scale Test Case
+  - [ ] CLT set for phase balancing
   - [ ] read the data-driven RO paper (1h) 
-  - [ ] meet Dr. Xie (results) (1h)
-  - [ ] how to explain the difficulty of cc-ACOPF
+  - [ ] Large Scale Test Case
   - [ ] exercise 
   - [ ] guitar 
 * (Fri) 
@@ -95,7 +93,9 @@ Case studies
   - [ ] check the sc-SCUC paper, with new outline (1h) 
   - [ ] test simulation results of the big system (2h) 
   - [ ] exercise 
-  - [ ] guitar 
+  - Bus
+    - [ ] review ACC paper
+    - [ ] how to explain the difficulty of cc-ACOPF
 * (Sat) 
   - [ ] examine the phase balancing data (1h) 
   - [ ] factor model on phase balancing (1h) 
@@ -126,4 +126,8 @@ Case studies
 - [ ] download the references of stat learning course
 - [ ] check the proof by Bertismas
 - [ ] inner approximation of power flow feasibility region
-  - [ ] S-procedure 
+- [ ] S-procedure 
+1. PES GM paper?
+  - if can solve the cross-terms in ENR, then write this
+  - or, write data-driven robust optimal topology ?? LASSO, regularizer, robust opt view of the results 
+  - otw, chance-constrained something?
