@@ -83,9 +83,9 @@ Case studies
   - [^] exercise 
   - [^] guitar  
 * (Thu) 
+  - [ ] proof 
   - [ ] CLT set for phase balancing
   - [ ] read the data-driven RO paper (1h) 
-  - [ ] Large Scale Test Case
   - [ ] exercise 
   - [ ] guitar 
 * (Fri) 
@@ -95,12 +95,14 @@ Case studies
   - [ ] exercise 
   - Bus
     - [ ] review ACC paper
+    - [ ] read the inner approximation algorithm
     - [ ] how to explain the difficulty of cc-ACOPF
 * (Sat) 
   - [ ] examine the phase balancing data (1h) 
   - [ ] factor model on phase balancing (1h) 
   - [ ] guitar 
 * (Sun) 
+  - [ ] Large Scale Test Case
   - [ ] code running for large test cases 
   - [ ] hiking 
   - [ ] oysters 
