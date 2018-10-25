@@ -83,9 +83,13 @@ Case studies
   - [^] exercise 
   - [^] guitar  
 * (Thu) 
-  - [ ] proof 
+  - [ ] return at USPS
+  - [ ] think about the proof for UC
   - [ ] CLT set for phase balancing
   - [ ] read the data-driven RO paper (1h) 
+  - [ ] borrow book glass bead game (0.5h)
+  - [ ] discussion with Ian (1h)
+  - [ ] Large Scale Test Case
   - [ ] exercise 
   - [ ] guitar 
 * (Fri) 
