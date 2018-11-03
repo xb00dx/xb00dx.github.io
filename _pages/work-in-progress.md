@@ -11,13 +11,12 @@ redirect_from:
 ### Upcoming Deadlines
 
 1. [Oct.31.2018] cc-SCUC DDL
-1. [Oct.31.2018] DDL for ACC paper
 1. [Nov.12.2018] DDL for TPWRS paper
 1. [Nov.16.2018] DDL for TPWRS paper
 1. [Nov.19.2018] DDL for TPWRS paper
 1. [Dec.30.2018] submission to ARiCS
-  - [ ] scenario approach
-    - [ ] find support constraints
+  - [x] scenario approach
+    - [x] find support constraints
   - [ ] sample average approx
   - (Oct.31) Bertsimas's Robust
     - [ ] data-driven robust
@@ -52,68 +51,84 @@ Case studies
   - upper bound #support ones --> #scenarios --> actual support ones
 2. 118-bus system (NREL)
 3. Larger system, with real-world data?
+- [ ] formulations of cc-ACOPF (SOCP for radial networks)
 
-### Oct.21 -- Oct.27.2018
-* (Mon) 
-  - [x] read the section in Computational Learning Theory Chap. VC
-  - [x] Reading the proof in Zhang's paper 
-  - [x] Stat Learning Course
-  - [^] Matrix function seminar
-  - [x] LIDS seminar/Machine Learning Course
-  - [^] run for 5 km (night)
-  - [^] plot the 3-bus system results 
-  - [^] exercise (1.5h) 
-  - [^] guitar
-* (Tue) 
-  - [x] think about better bounds
-  - [x] read about VC dimension, the textbook
-  - [x] collect the key findings
-  - [x] come up with the conjecture
-  - [x] prepare for the LIDS tea talk
-  - [^] exercise 
-  - [^] guitar 
-* (Wed) 
-  - [x] thinking on the proof
-  - [x] College of Computation Info Session
-  - [x] My LIDS tea talk (0.5h) 
-  - [^] Stat learning course (1.5h) 
-  - [x] Machine Learning course (1.5h) 
-  - [x] document the findings (2h) 
-  - [^] run for 5 miles (gym) 
-  - [^] exercise 
-  - [^] guitar  
+### Oct.28 -- Nov.03.2018
 * (Thu) 
-  - [ ] return at USPS
-  - [ ] think about the proof for UC
-  - [ ] CLT set for phase balancing
-  - [ ] read the data-driven RO paper (1h) 
-  - [ ] borrow book glass bead game (0.5h)
-  - [ ] discussion with Ian (1h)
-  - [ ] Large Scale Test Case
+  - [ ] formulation of cc-UC, without congestion
+  - [ ] review paper
+  - [ ] read intro to stat learning 
+  - [ ] finish proof for the no-congestion case
+  - [ ] search for Postdoc Fellowships  
   - [ ] exercise 
   - [ ] guitar 
 * (Fri) 
-  - [ ] debug/analyze multi-stage sc-UC (1.5h)
-  - [ ] check the sc-SCUC paper, with new outline (1h) 
-  - [ ] test simulation results of the big system (2h) 
-  - [ ] exercise 
-  - Bus
-    - [ ] review ACC paper
-    - [ ] read the inner approximation algorithm
-    - [ ] how to explain the difficulty of cc-ACOPF
-* (Sat) 
+  - [x] read intro to stat learning (1h)
+  - [x] control@mit 
+  - [^] read data-driven RO paper (3h)
+  - [^] exercise (1.5h)
+* (Sat) Nov.03
+  - [ ] read intro to stat learning (1h)
+  - [ ] examine (z,u,v) formulation and results (1h)
+  - [ ] read intro to stat learning (1h)
+  - [ ] running (1h) 
   - [ ] examine the phase balancing data (1h) 
-  - [ ] factor model on phase balancing (1h) 
-  - [ ] guitar 
-* (Sun) 
-  - [ ] Large Scale Test Case
-  - [ ] code running for large test cases 
-  - [ ] hiking 
-  - [ ] oysters 
+  - [ ] factor model on phase balancing (1h)  
+  - [ ] CLT set for phase balancing (1h)
+  - [ ] figure out a case that data-driven RO can help 
+  - [ ] email YY about the bound (1h) 
+  - [ ] BSO 
+* (Sun) Nov.04
+  - [ ] read intro to stat learning (1h)
+  - [ ] finish writing on the cc-UC thm (1h)
+  - [ ] finish writing on the cc-UC proof (1h)
+  - [ ] finish theoretical analysis on the cc-SCUC paper (1h)
+  - [ ] finish simulation on the 3bus simulation (2h)
+  - [ ] visualize the 3-bus results (2h) 
+  - [ ] read the inner approximation algorithm (1h)
+* (Mon) Nov.05 
+  - [ ] large system set-up (1.5h)
+  - [ ] read intro to stat learning (1h)
+  - [ ] simulation analysis on the 3-bus system (1h)
+  - [ ] Stat Learning (1.5h)
+  - [ ] question for Sasha (0.5h)
+  - [ ] exercise (1.5h)
+  - [ ] Machine Learning (1.5h) 
+* (Tue) Nov.06 
+  - [ ] large-scale test case (1.5h)
+  - [ ] read intro to stat learning (1h)
+  - [ ] data-driven RO paper (2h) 
+  - [ ] read Vishal's code (1h) 
+  - [ ] implement one data-driven RO (1h)
+  - [ ] read Dongchan's paper again (1.5h)
+* (Wed) Nov.07 
+  - [ ] read intro to stat learning (1h)
+  - [ ] data-driven RO paper (2h) 
+  - [ ] Stat Learning (1.5h)
+  - [ ] exercise (1.5h) 
+  - [ ] Machine Learning (1.5h)
+  - [ ] possible applications of inner approx (1h)
+  - [ ] proof of strong SOCP formulation (1.5h) 
+* (Thu) Nov.08 
+  - [ ] read intro to stat learning (1h)
+  - [ ] analyze large-scale test case (2h)
+  - [ ] proof of strong SOCP formulation (1.5h) 
+  - [ ] possible applications of inner approx (1h)
+  - [ ] read Dongchan's paper again (1.5h)
+* (Fri) Nov.09 
+  - [ ] get ready with meeting with Dongchan (0.5h)
+  - [ ] Meeting with Dongchan (1h)
+* (Sat)
+  - [ ]  
+        
 
 ### Next
 #### Next Week
-- [ ] search for Postdoc Fellowships
+- [ ] Large Scale Test Case
+- [ ] code running for large test cases
+- [ ] check the sc-SCUC paper, with new outline (1h) 
+- [ ] test simulation results of the big system (2h) 
+- [ ] debug/analyze multi-stage sc-UC (1.5h)
 - [ ] implement phase balancing with factor CLT model (1h)
 - [ ] compare results of factor CLT with previous box set (0.5h)
 - [ ] implement data-driven robust optimization 
