@@ -53,74 +53,59 @@ Case studies
 3. Larger system, with real-world data?
 - [ ] formulations of cc-ACOPF (SOCP for radial networks)
 
-### Oct.28 -- Nov.03.2018
-* (Thu) 
-  - [ ] formulation of cc-UC, without congestion
-  - [ ] review paper
-  - [ ] read intro to stat learning 
-  - [ ] finish proof for the no-congestion case
-  - [ ] search for Postdoc Fellowships  
-  - [ ] exercise 
-  - [ ] guitar 
-* (Fri) 
-  - [x] read intro to stat learning (1h)
-  - [x] control@mit 
-  - [^] read data-driven RO paper (3h)
-  - [^] exercise (1.5h)
-* (Sat) Nov.03
-  - [ ] read intro to stat learning (1h)
-  - [ ] examine (z,u,v) formulation and results (1h)
-  - [ ] read intro to stat learning (1h)
-  - [ ] running (1h) 
-  - [ ] examine the phase balancing data (1h) 
-  - [ ] factor model on phase balancing (1h)  
-  - [ ] CLT set for phase balancing (1h)
-  - [ ] figure out a case that data-driven RO can help 
-  - [ ] email YY about the bound (1h) 
-  - [ ] BSO 
-* (Sun) Nov.04
-  - [ ] read intro to stat learning (1h)
-  - [ ] finish writing on the cc-UC thm (1h)
-  - [ ] finish writing on the cc-UC proof (1h)
-  - [ ] finish theoretical analysis on the cc-SCUC paper (1h)
-  - [ ] finish simulation on the 3bus simulation (2h)
-  - [ ] visualize the 3-bus results (2h) 
-  - [ ] read the inner approximation algorithm (1h)
-* (Mon) Nov.05 
-  - [ ] large system set-up (1.5h)
-  - [ ] read intro to stat learning (1h)
-  - [ ] simulation analysis on the 3-bus system (1h)
-  - [ ] Stat Learning (1.5h)
-  - [ ] question for Sasha (0.5h)
-  - [ ] exercise (1.5h)
-  - [ ] Machine Learning (1.5h) 
-* (Tue) Nov.06 
-  - [ ] large-scale test case (1.5h)
-  - [ ] read intro to stat learning (1h)
-  - [ ] data-driven RO paper (2h) 
+### Nov.11 -- Nov.18.2018
+* (Mon) Nov.12 
+  - [x] think about the look-ahead dispatch (1.5h)
+  - [ ] understand Dongchan's method on power flow feasibility region (1h)  
+  - [X] docs different representations of power flow equations (1h)
+  - [X] get tickets (BSO) (0.5h)
+  - [x] plot prior and posterior epsilon (1h)
+  - [x] collect and plot results of the 3-bus system (1h)
+  - [x] review TPS paper (1h) 
+* (Tue)
+  - [ ] proof of strong SOCP formulation (1h)
+  - [ ] get ready the 118-bus system (1h)
+  - [ ] test run the 118-bus system (1h)
+  - [ ] sort up the thinking on Look-ahead dispatch (1h)
+  - [ ] Seminar: learning regularizers (1.5h)
+  - [ ] meeting with Dr. Xie about look-ahead (1h)
+  - [ ] Seminar: (1.5h) 
+  - [ ] plot the relationship among N,k,beta
+  - [ ] sort writings of theoretical analysis (2h)
+  - [ ] result analysis of the 3-bus system (2h)
+  - [ ] trivia
+    - [ ] a list of postdocs and fellowships (2h)
+    - [ ] reply Alex 
+    - [ ] check travel grant 
+    - [ ] flight ticket to Hawaii
+    - [ ] text Xiangtian 
+    - [ ] email for Ben Hobbs' meeting 
+* (Wed)
+  - [ ] MIT Energy Initiative Workshop (5h)
+  - [ ] think on the GenGame formulation, get ready for Hobb's meeting (2h)
+  - [ ] check the 118-bus test case (2h)
+  - [ ] check the two papers by Hobbs on MPEC, in the reviewed paper (2h)
+  - [x] download the lecture slides
+    - [x] baldick's market lecture
+    - [x] baldick's market power lecture 
+* (Thu)
+  - [ ] re-implement Dongchan's method (2h)
+  - [ ] seminar (1h)
+  - [ ] 118-bus analysis (2h)
+  - [ ] Sra's seminar (1.5h) 
+* (Fri)
+  - [ ] think about price of anarchy (2h) 
+  - [ ] think about inner approx with different formulations (2h)
+  - [ ] ss
+* (Sat) 
+  - [ ] write about the 118-bus simulation results (3h)
+  - [ ] apply Dongchan's method, using a different form of AC power flow 
+* (Sun) 
+  - [ ] finalize the cc-SCUC paper, sent to Dr. Xie (2h)
+  - [ ] data-driven RO paper (2h)  
   - [ ] read Vishal's code (1h) 
-  - [ ] implement one data-driven RO (1h)
-  - [ ] read Dongchan's paper again (1.5h)
-* (Wed) Nov.07 
-  - [ ] read intro to stat learning (1h)
-  - [ ] data-driven RO paper (2h) 
-  - [ ] Stat Learning (1.5h)
-  - [ ] exercise (1.5h) 
-  - [ ] Machine Learning (1.5h)
-  - [ ] possible applications of inner approx (1h)
-  - [ ] proof of strong SOCP formulation (1.5h) 
-* (Thu) Nov.08 
-  - [ ] read intro to stat learning (1h)
-  - [ ] analyze large-scale test case (2h)
-  - [ ] proof of strong SOCP formulation (1.5h) 
-  - [ ] possible applications of inner approx (1h)
-  - [ ] read Dongchan's paper again (1.5h)
-* (Fri) Nov.09 
-  - [ ] get ready with meeting with Dongchan (0.5h)
-  - [ ] Meeting with Dongchan (1h)
-* (Sat)
-  - [ ]  
-        
+* (Mon)
+  - [ ] meet Ben Hobbs (1h)
 
 ### Next
 #### Next Week
