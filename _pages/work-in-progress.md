@@ -63,13 +63,9 @@ Case studies
   - [x] collect and plot results of the 3-bus system (1h)
   - [x] review TPS paper (1h) 
 * (Tue)
-  - [ ] proof of strong SOCP formulation (1h)
-  - [ ] get ready the 118-bus system (1h)
-  - [ ] test run the 118-bus system (1h)
   - [ ] sort up the thinking on Look-ahead dispatch (1h)
   - [ ] Seminar: learning regularizers (1.5h)
-  - [ ] meeting with Dr. Xie about look-ahead (1h)
-  - [ ] Seminar: (1.5h) 
+  - [x] Seminar: (1.5h) 
   - [ ] plot the relationship among N,k,beta
   - [ ] sort writings of theoretical analysis (2h)
   - [ ] result analysis of the 3-bus system (2h)
@@ -81,26 +77,33 @@ Case studies
     - [ ] text Xiangtian 
     - [ ] email for Ben Hobbs' meeting 
 * (Wed)
-  - [ ] MIT Energy Initiative Workshop (5h)
-  - [ ] think on the GenGame formulation, get ready for Hobb's meeting (2h)
+  - [x] MIT Energy Initiative Workshop (5h)
   - [ ] check the 118-bus test case (2h)
   - [ ] check the two papers by Hobbs on MPEC, in the reviewed paper (2h)
   - [x] download the lecture slides
     - [x] baldick's market lecture
     - [x] baldick's market power lecture 
 * (Thu)
-  - [ ] re-implement Dongchan's method (2h)
-  - [ ] seminar (1h)
+  - [ ] get ready the 118-bus system (1h)
+  - [ ] test run the 118-bus system (1h) 
+  - [ ] pserc presentation (1h) 
+  - [ ] think about look-ahead (1h) 
+  - [ ] meeting with Dr. Xie about look-ahead (1h)
+  - [ ] seminar "hamitonian descent method" (1h)
   - [ ] 118-bus analysis (2h)
   - [ ] Sra's seminar (1.5h) 
+  - [ ] trivia
+  	- [ ] search for postdoc opportunities
 * (Fri)
   - [ ] think about price of anarchy (2h) 
   - [ ] think about inner approx with different formulations (2h)
   - [ ] ss
 * (Sat) 
+  - [ ] re-implement Dongchan's method (2h)
   - [ ] write about the 118-bus simulation results (3h)
   - [ ] apply Dongchan's method, using a different form of AC power flow 
 * (Sun) 
+  - [ ] think on the GenGame formulation, get ready for Hobb's meeting (2h) 
   - [ ] finalize the cc-SCUC paper, sent to Dr. Xie (2h)
   - [ ] data-driven RO paper (2h)  
   - [ ] read Vishal's code (1h) 
