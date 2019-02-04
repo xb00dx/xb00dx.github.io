@@ -2,7 +2,7 @@
 title: "Optimal power consumption for demand response of thermostatically controlled loads"
 collection: publications
 permalink: /publication/2018-09-OPCDR-OCAM
-excerpt: '(1) Understanding the geometric and structural properties of the Economic Dispatch probem; (2) Learning the underlying structure from electricity market data.'
+excerpt: 'How the Load serving entity (LSE) can opportunistically design the aggregate reference consumption to minimize its energy procurement cost, given day-ahead price, load forecast, and ambient temperature forecast, while respecting each individual load's comfort range constraints.'
 date: 2018-09-01
 venue: ' Optimal Control: Applications and Methods (Volume 40, Issue 1, January/February 2019)'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/oca.2467'
