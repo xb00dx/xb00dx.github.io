@@ -3,7 +3,7 @@ title: "Optimal power consumption for demand response of thermostatically contro
 collection: publications
 permalink: /publication/2018-09-OPCDR-OCAM
 excerpt: '(1) Understanding the geometric and structural properties of the Economic Dispatch probem; (2) Learning the underlying structure from electricity market data.'
-date: 2019-09
+date: 2018-09-01
 venue: ' Optimal Control: Applications and Methods (Volume 40, Issue 1, January/February 2019)'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/oca.2467'
 citation: '<a href = "http://xb00dx.github.io/files/2018-09-OPCDR-OCAM.bib">[bib file]</a>Abhishek Halder, <b> Xinbo Geng</b>, Fernando A.C.C. Fontes, P.R. Kumar, Le Xie. Halder A, Geng X, Fontes FACC, Kumar PR, Xie L. Optimal power consumption for demand response of thermostatically controlled loads. Optim Control Appl Meth. 2019;40:68–84. '
