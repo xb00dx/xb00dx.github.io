@@ -1,5 +1,5 @@
 ---
-title: "ECEN689: Data Sciences in Modern Power Systems."
+title: "ECEN689: Data Sciences in Modern Power Systems, Fall 2015"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2015-Fall-DataScience
@@ -8,7 +8,6 @@ date: 2015-09-01
 location: "College Station, TX"
 ---
 
-### ECEN689: Data Sciences in Modern Power Systems, Fall 2015 
 - Basic Statistical/Machine Learning, Time Series Analysis and System Identification
 - With Applications in Power Systems
 - First time the course taught at Texas A&M University
