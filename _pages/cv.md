@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[<b>pdf</b>](http://xb00dx.github.io/files/cv.pdf)
+
 {% include base_path %}
 
 Education
@@ -48,8 +50,16 @@ Professional Experience
 
 Skills
 ======
-* Python, Matlab, R, Shell/bash, TeX/LaTeX.
+* Python, Matlab/Simulink, R, Shell/bash, TeX/LaTeX.
 * Java, C/C++.
+* Power World, Plexos, GridLab-D, PSS/E.
+
+Honors and Awards
+======
+* The ISSIP-IBM-CBA Student Paper Award, the 2019 Hawaii International Conference on System Sciences (HICSS-52), Maui, HI, Jan.2019.
+* The Best Master Student of the Dwight Look College of Engineering, Texas A&M University, Oct.2015
+* The Best Master Student of the Department of Electrical and Computer Engineering, Texas A&M University, Aug.2015
+* Department Scholarship, Department of Electrical and Computer Engineering, Texas A&M University, Sep.2014
 
 Publications
 ======
@@ -69,8 +79,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Honors and Awards
-=====
-* The Best Master Student of the Dwight Look College of Engineering, Texas A&M University, Oct.2015
-* The Best Master Student of the Department of Electrical and Computer Engineering, Texas A&M University, Aug.2015
-* Department Scholarship, Department of Electrical and Computer Engineering, Texas A&M University, Sep.2014
