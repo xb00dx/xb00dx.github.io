@@ -11,9 +11,7 @@ location: "College Station, TX"
 - Basic Statistical/Machine Learning, Time Series Analysis and System Identification
 - With Applications in Power Systems
 - First time the course taught at Texas A&M University
-- Course design, materials (e.g. slides, homeworks, exams) preparation and homeworks grading;
 - about 50 graduate students in the course
-
-### My role:
-- Teaching Assistant 
-- Guest Lectures 
+- (My Role) Teaching Assistant
+	- Course design, materials (e.g. slides, homeworks, exams) preparation and homeworks grading;
+	- Guest Lectures 
