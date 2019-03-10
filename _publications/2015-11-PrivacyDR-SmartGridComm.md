@@ -11,6 +11,6 @@ citation: '<a href = "http://xb00dx.github.io/files/2015-11-PrivacyDR-SmartGridC
 
 We address a problem in demand response for the class of thermal inertial loads: How to control the total demand of a set of loads, and also what to control it to, all while respecting constraints on load states, as well as maintaining privacy of load states. The architecture we investigate consists of an aggregator or Load Serving Entity (LSE) serving several thermostatically controlled loads (TCLs), whose set-points are controlled by the LSE to follow a desired total power consumption. We propose a modeling, analysis and design framework for the LSE that accomplishes this goal by solving a hierarchy of two control problems. The first control problem consists of determining an optimal aggregate power trajectory given the price forecasts. The second problem is that of controlling the set-points of the TCL population so as to drive their total power consumption to follow the optimal power trajectory. We show how the LSE can solve these control problems while guaranteeing privacy and contractual comfort bounds for the TCL states. Numerical simulations illustrate the efficacy of the proposed framework.
 
-[Download paper here](http://xb00dx.github.io/files/paper2.pdf)
+[Download paper here](http://xb00dx.github.io/files/2015-11-PrivacyDR-SmartGridComm.pdf)
 
 Recommended citation: [bib](http://xb00dx.github.io/files/2015-11-PrivacyDR-SmartGridComm.bib).
