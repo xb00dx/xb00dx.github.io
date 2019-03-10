@@ -1,20 +1,17 @@
 ---
 layout: archive
-title: "Notes"
+title: "Notes (on Everything Attractive)"
 permalink: /notes/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Notes on Everything Attractive
-======
+#### [Optimization](/optimization/)
 
-##### [Optimization](https://www.google.com/)
+#### Programming
 
-##### Programming
+#### Software 
 
-##### Software 
-
-##### Power System
+#### Power System
 
