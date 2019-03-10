@@ -7,11 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-#### [Optimization](/optimization/)
+## [Optimization](/optimization/)
 
-#### Programming
+## [Programming](/programming/)
 
-#### Software 
+## [Software](/software/) 
 
-#### Power System
+## [Power System](/ps/)
+
+## [Others](/other-notes/)
+
+
 
