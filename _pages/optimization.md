@@ -27,6 +27,7 @@ author_profile: true
 	- [UCLA Course: Sparse Optimization](http://www.math.ucla.edu/~wotaoyin/summer2013/), by Prof. Wotao Yin
 - Ordinal Optimization
     - [Slides](http://people.seas.harvard.edu/~ho/DEDS/OO/OOTOC.html) by Prof. Yu-Chi Ho
+- Submodular
 
 ### Optimization with Uncertainties
 
