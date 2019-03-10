@@ -7,17 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Power System Notes
+Notes on Everything Attractive
 ======
 
-{% for post in site.datasets %}
-  {% include archive-single.html %}
-{% endfor %}
+##### [Optimization](google.com)
 
+##### Programming
 
-Programming Notes
-======
+##### Software 
 
+##### Power System
 
-Software Notes
-======
