@@ -10,7 +10,7 @@ author_profile: true
 Notes on Everything Attractive
 ======
 
-##### [Optimization](google.com)
+##### [Optimization](https://www.google.com/)
 
 ##### Programming
 
