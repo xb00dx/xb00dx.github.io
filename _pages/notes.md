@@ -1,23 +1,21 @@
 ---
 layout: archive
-title: "Notes"
+title: "Notes (on Everything Attractive)"
 permalink: /notes/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Power System Notes
-======
+## [Optimization](/optimization/)
 
-{% for post in site.datasets %}
-  {% include archive-single.html %}
-{% endfor %}
+## [Programming](/programming/)
+
+## [Software](/software/) 
+
+## [Power System](/ps/)
+
+## [Others](/other-notes/)
 
 
-Programming Notes
-======
 
-
-Software Notes
-======
