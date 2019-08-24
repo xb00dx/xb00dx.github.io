@@ -12,6 +12,11 @@ redirect_from:
 
 1. [Oct.31.2018] cc-SCUC DDL
 1. [Nov.12.2018] DDL for TPWRS paper
+1. [Nov.16.2018] DDL for TPWRS paper
+1. [Nov.19.2018] DDL for TPWRS paper
+1. [Dec.30.2018] submission to ARiCS
+  - [x] scenario approach
+    - [x] find support constraints
 
 
 Case studies
@@ -40,33 +45,16 @@ Case studies
   - [x] collect and plot results of the 3-bus system (1h)
   - [x] review TPS paper (1h) 
 
-### Next
-#### Next Week
-- [ ] Large Scale Test Case
-- [ ] code running for large test cases
-- [ ] check the sc-SCUC paper, with new outline (1h) 
-- [ ] test simulation results of the big system (2h) 
-- [ ] debug/analyze multi-stage sc-UC (1.5h)
-- [ ] implement phase balancing with factor CLT model (1h)
-- [ ] compare results of factor CLT with previous box set (0.5h)
-- [ ] implement data-driven robust optimization 
-- [ ] relaxation is tight for tree networks
-- [ ] simulation results of the big system
-- [ ] debug the sc-UC code for large-scale system (1h)
-- [ ] read the data-driven robust paper
+## References to be added
+### Chance-constrained Optimization
 
-#### High Priority
-- [ ] read Ahmad's paper
-- [ ] watch the video by Shabir Ahmad
-- [ ] read Dan Wu's paper
-- [ ] read all slides for Bertsimas' course
+### cc-SCED
 
-#### Low Priority
-- [ ] download the references of stat learning course
-- [ ] check the proof by Bertismas
-- [ ] inner approximation of power flow feasibility region
-- [ ] S-procedure 
-1. PES GM paper?
-  - if can solve the cross-terms in ENR, then write this
-  - or, write data-driven robust optimal topology ?? LASSO, regularizer, robust opt view of the results 
-  - otw, chance-constrained something?
+### cc-SCUC
+- Sundar, Kaarthik, Harsha Nagarajan, Line Roald, Sidhant Misra, Russell Bent, and Daniel Bienstock. "Chance-Constrained Unit Commitment with N-1 Security and Wind Uncertainty." IEEE Transactions on Control of Network Systems (2019).
+
+### cc planning
+
+
+## Others
+- using nomencl package in LaTeX: https://tex.stackexchange.com/questions/62061/problem-with-the-nomenclature

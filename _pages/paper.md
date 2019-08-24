@@ -10,7 +10,7 @@ redirect_from:
 
 | Priority    |  Power System |  Optimization    |  Machine Learning           |  Dynamics and Control  | Status            |
 |------------------------------------------------------------------------------------|--------------|--------------|---------------------|--------------|-------------------|
-|  High      |   [[^sundar2019]]  |     |   [[^thomas2017]] [[^bertsimas2018]] |    |            |
+|  High      |   [[^sundar2019]]  |  [[^goemans]]   |   [[^thomas2017]] [[^bertsimas2018]] |    |            |
 |  Mid      |     |     |   [[^xie2018]]         |    |            |
 |  Low      |     |  [[^bach2018]] [[^bach2017]]  |           |    |            |
 
@@ -24,3 +24,4 @@ redirect_from:
 [^bach2018]: Statistical machine learning and convex optimization, https://www.di.ens.fr/~fbach/fbach_mlss_2018.pdf
 [^bach2017]: Francis Bach, Stochastic Variance-Reduced Optimization for Machine Learning, [part1](https://www.di.ens.fr/~fbach/fbach_tutorial_siopt_2017.pdf), [part2](https://www.di.ens.fr/~fbach/2017_SIOPT_NonX.pdf)
 [^goemans]: [Lecture notes on bipartite matching](http://math.mit.edu/~goemans/18453S17/matching-notes.pdf)
+
