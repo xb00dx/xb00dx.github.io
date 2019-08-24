@@ -12,30 +12,7 @@ redirect_from:
 
 1. [Oct.31.2018] cc-SCUC DDL
 1. [Nov.12.2018] DDL for TPWRS paper
-1. [Nov.16.2018] DDL for TPWRS paper
-1. [Nov.19.2018] DDL for TPWRS paper
-1. [Dec.30.2018] submission to ARiCS
-  - [x] scenario approach
-    - [x] find support constraints
-  - [ ] sample average approx
-  - (Oct.31) Bertsimas's Robust
-    - [ ] data-driven robust
-    - [ ] others?
-  - [ ] Nemirovski's Robust
-    - convex approx
-      - [ ] markov bound
-      - [ ] chebshev bound
-      - [ ] other bounds
-    - [ ] more advanced methods in his books
-1. [Dec.31.2018] cc-ACOPF restriction DDL
-  - [ ] think on how to explain the difficulty (Oct.20)
-  - [ ] understand the restriction paper (Oct.18)
-  - [ ] implement the restriction method (Oct.31)
-  - [ ] problem formulation of cc-ACOPF (Oct.31)
-  - [ ] ask for comments on the problem formulation (Nov.15)
-  - [ ] preliminary results (Nov.15)
-  - [ ] more simulations (Dec.15)
-  - [ ] paper writing (Dec.31)
+
 
 Case studies
 1. 3 bus, 1 gen, 1 wind, 2 loads, load profiles, wind profiles, no contingency
@@ -62,53 +39,6 @@ Case studies
   - [x] plot prior and posterior epsilon (1h)
   - [x] collect and plot results of the 3-bus system (1h)
   - [x] review TPS paper (1h) 
-* (Tue)
-  - [ ] sort up the thinking on Look-ahead dispatch (1h)
-  - [ ] Seminar: learning regularizers (1.5h)
-  - [x] Seminar: (1.5h) 
-  - [ ] plot the relationship among N,k,beta
-  - [ ] sort writings of theoretical analysis (2h)
-  - [ ] result analysis of the 3-bus system (2h)
-  - [ ] trivia
-    - [ ] a list of postdocs and fellowships (2h)
-    - [ ] reply Alex 
-    - [ ] check travel grant 
-    - [ ] flight ticket to Hawaii
-    - [ ] text Xiangtian 
-    - [ ] email for Ben Hobbs' meeting 
-* (Wed)
-  - [x] MIT Energy Initiative Workshop (5h)
-  - [ ] check the 118-bus test case (2h)
-  - [ ] check the two papers by Hobbs on MPEC, in the reviewed paper (2h)
-  - [x] download the lecture slides
-    - [x] baldick's market lecture
-    - [x] baldick's market power lecture 
-* (Thu)
-  - [ ] get ready the 118-bus system (1h)
-  - [ ] test run the 118-bus system (1h) 
-  - [ ] pserc presentation (1h) 
-  - [ ] think about look-ahead (1h) 
-  - [ ] meeting with Dr. Xie about look-ahead (1h)
-  - [ ] seminar "hamitonian descent method" (1h)
-  - [ ] 118-bus analysis (2h)
-  - [ ] Sra's seminar (1.5h) 
-  - [ ] trivia
-  	- [ ] search for postdoc opportunities
-* (Fri)
-  - [ ] think about price of anarchy (2h) 
-  - [ ] think about inner approx with different formulations (2h)
-  - [ ] ss
-* (Sat) 
-  - [ ] re-implement Dongchan's method (2h)
-  - [ ] write about the 118-bus simulation results (3h)
-  - [ ] apply Dongchan's method, using a different form of AC power flow 
-* (Sun) 
-  - [ ] think on the GenGame formulation, get ready for Hobb's meeting (2h) 
-  - [ ] finalize the cc-SCUC paper, sent to Dr. Xie (2h)
-  - [ ] data-driven RO paper (2h)  
-  - [ ] read Vishal's code (1h) 
-* (Mon)
-  - [ ] meet Ben Hobbs (1h)
 
 ### Next
 #### Next Week

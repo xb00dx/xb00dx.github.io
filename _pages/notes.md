@@ -17,5 +17,14 @@ author_profile: true
 
 ## [Others](/other-notes/)
 
+LaTeX figures:
+
+- use tikz package
+- use inkscape + psfrag package
+  - plot figure using `inkscape`, export as `.eps` file
+  - in latex source code, use `psfrag` package to replace the strings with latex equations or references
+  - `\usepackage{pstool}` to enable compiling using pdflatex
+  - compiling command: `pdflatex --shell-escape YOURTEX.tex`
+
 
 
