@@ -22,7 +22,7 @@ redirect_from:
 | [INFORMS 2019](http://meetings2.informs.org/wordpress/seattle2019/) | May.15.2019  | -            | October.20-23.2019 | Seattle, WA   | Attending                |
 | [PESGM 2020](http://pes-gm.org)  | -            | Nov.7.2019 | Aug.2-6.2019 | Montreal, Canada |  |
 | [CISS 2020](https://ee-ciss.princeton.edu/submit-paper.html) | -  | December.09.2019        | March.2020 | Princeton, NJ   | -                |
-| PMAPS                                                                               | -            |    February.2020          |    August.18-21.2020      |         Liege, Belgium     |                   - |
+| [PMAPS](http://aimontefiore.org/PMAPS2020/index.php)                                                                               | -            |    February.17.2020          |    August.18-21.2020      |         Liege, Belgium     |                   - |
 | [ACM e-Energy 2020](https://energy.acm.org/conferences/eenergy/2020/)       | January.27.2020            |    February.03.2020     |  June.22-June.26.2020    | Melbourne, Australia |    -           |
 | [ICML 2020](https://icml.cc/Conferences/2020/Dates)      | January.2020           |  January.2020     |  July.13-18.2020        |     Vienna, Austria   |    -               |
 | [CDC 2020](http://cdc2020.ieeecss.org/)      | -            |    March.03.2020 |  December.8-11.2020                   | Jeju Island, Republic of Korea |   -        |

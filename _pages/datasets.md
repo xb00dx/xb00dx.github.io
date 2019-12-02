@@ -13,7 +13,7 @@ author_profile: true
 
 | Name (link) | Download | Ref | OPF | Wind | Solar | DG | Contingency | TS | GMD | PWDS | PMU |Others | Notes |
 |-------------|----------|-----|-----|----|-----|------|-----|------|-------|----|--------|-------|-------|
-| [ACTIVSg200](https://electricgrids.engr.tamu.edu/electric-grid-test-cases/activsg200/) | [BetterGrids URL](https://db.bettergrids.org/bettergrids/handle/1001/436) | [[^birchfield2017]]  |     |    |     |      |     |      |       |    |        |       |  |
+| [ACTIVSg200](https://electricgrids.engr.tamu.edu/electric-grid-test-cases/activsg200/) | [URL1](https://db.bettergrids.org/bettergrids/handle/1001/437) | [[^birchfield2017]]  | Yes |    |     |      |     | Yes |       |    |        |       |  |
 | [ACTIVSg500](https://electricgrids.engr.tamu.edu/electric-grid-test-cases/activsg500/) |          |     |     |    |     |      |     |      |       |    |        |       |  |
 | [ACTIVSg2000](https://electricgrids.engr.tamu.edu/electric-grid-test-cases/activsg2000/) |          |     |     |    |     |      |     |      |       |    |        |       |  |
 | [ACTIVSg10k](https://electricgrids.engr.tamu.edu/electric-grid-test-cases/activsg10k/) |          |     |     |    |     |      |     |      |       |    |        |       |  |
