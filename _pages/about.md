@@ -10,9 +10,20 @@ redirect_from:
 
 - An engineer with specialized expertise in power system economics and operations;
 - A self-motivated PhD Student enjoying mathematics and programming;
-- A passionate researcher with interests on decision making under uncertainties (robust/stochastic/chance-constrained optimization), machine learning/data science/statistical learning.
+- A passionate researcher with interests in decision making under uncertainties (robust/stochastic/chance-constrained optimization), machine learning/data science/statistical learning.
 
 ## News 
+- \[Jan.2020\] Officially started my postdoc, holding a joint position at Cornell Univeristy and Texas A&M University.
+- \[Dec.2019\] Road trip to National Parks in Texas and New Mexico.
+- \[Dec.2019\] Attended my PhD graduation ceremony at College Station, TX. Now officially Dr. Geng!
+- \[Dec.2019\] Left University of Wisconsin, Madison. These three months were fruitful and cheering!
+- \[Nov.2019\] Giving a talk at the power hour of University of Wisconsin, Madison.
+- \[Nov.2019\] New manuscript: [A General Scenario Theory For Security-Constrained Unit Commitment With Probabilistic Guarantees](https://arxiv.org/abs/1910.07672).
+- \[Oct.2019\] Dissertation was submitted and approved by Texas A&M.
+- \[Sep.2019\ Became a visiting student at University of Wisconsin, Madison.
+- \[Sep.2019\] Successfully defended my dissertation titled "Power System Operations with Probabilistic Guarantees".
+- \[Jun.2019\] New manuscript "Chance-constrained Unit Commitment via the Scenario Approach" is accepted by the 51st North American Power Symposium (NAPS), an extended version is available on [arXiv](https://arxiv.org/abs/1910.10639).
+- \[May.2019\ ] Paper titled ["Data-driven Decision Making in Power Systems with Probabilistic Guarantees: Theory and Applications of Chance-constrained Optimization"](https://www.sciencedirect.com/science/article/pii/S1367578819300306) was accepted by Annual Reviews in Control.
 - \[Feb.2019\] Version 0.1 of the Matlab Toolbox [ConvertChanceConstraint(ccc)](https://github.com/xb00dx/ConvertChanceConstraint-ccc) for Chance-constrained Optimization is open-source on [Github](https://github.com/xb00dx/ConvertChanceConstraint-ccc).
 - \[Jan.2019\] Journal Paper "Data-driven Decision Making in Power Systems with Probabilistic Guarantees: Theory and Applications of Chance-constrained Optimization" was submitted to [Annual Reviews in Control](https://www.journals.elsevier.com/annual-reviews-in-control). We provide a comprehensive literature review of methods to solve chance-constrained optimization (CCO) and applications of CCO in power system decision making.
 - \[Jan.2019\] Won the ISSIP-IBM-CBA Student Paper Award at the Hawaii International Conference on System Sciences (HICSS-52).
