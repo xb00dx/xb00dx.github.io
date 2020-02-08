@@ -19,6 +19,10 @@ Education
 
 Professional Experience
 ======
+* 2020-present: Postdoctoral Associate
+	* Cornell University, Texas A&M University
+	* Dr. Lang Tong, Dr. Le Xie
+
 * 2014-2019: Research Assistant
   * Texas A&M University, College Station, TX.
   * Supervisor: Dr. Le Xie.
