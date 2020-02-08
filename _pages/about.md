@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- An engineer with specialized expertise in power system economics and operations;
 - A passionate researcher with interests in decision making under uncertainties (robust/stochastic/chance-constrained optimization), machine learning/data science/statistical learning.
+- An engineer with specialized expertise in power system economics/operations and optimization theory.
 
 > Eventually I found something that deeply and constantly attacts me and makes my life meaningful.
 > Everyday is inspiring, as I am stimulated by the gifted students, talented colleagues and dedicated mentors.
