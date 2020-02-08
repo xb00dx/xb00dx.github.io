@@ -13,15 +13,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, Texas A&M University, 2015 - Present
+* Ph.D in Electrical and Computer Engineering, Texas A&M University, 2015 - 2019
 * M.S. in Electrical and Computer Engineering, Texas A&M University, 2013-2015
 * B.E. in Electrical Engineering, Tsinghua University, Beijing, China, 2009-2013
 
 Professional Experience
 ======
-* 2014-Present: Research Assistant
+* 2014-2019: Research Assistant
   * Texas A&M University, College Station, TX.
   * Supervisor: Dr. Le Xie.
+
+* Fall 2019: Visiting Student
+  * University of Wisconsin, Madison.
+
+* Spring 2019: Instructor
+  * Texas A&M University, College Station, TX.
+  * Teaching the course ECEN 415/715 Physical and Economical Operations of Sustainable Energy Systems.
 
 * Fall 2018: Visiting Student
   * MIT Laboratory for Information & Decision Systems (LIDS).
@@ -34,6 +41,9 @@ Professional Experience
 * Summer 2017: Student Intern
   * ISO New England (ISO-NE), Holyoke, MA.
   * Transmission operation data analytics.
+
+* Summer 2016: Student Intern
+  * National Renewable National Lab, Golden, CO.
 
 * Fall 2015: Teaching Assistant
   * Texas A&M University, College Station, TX.
@@ -66,16 +76,16 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
