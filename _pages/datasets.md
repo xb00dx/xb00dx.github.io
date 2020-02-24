@@ -9,4 +9,4 @@ author_profile: true
 
 ## Datasets
 - [Benchmark Transmission&Distribution Systems](/testcase/)
-- [Electric Vehicle Datasets](/ev/data)
+- [Electric Vehicle Datasets](/evdata)

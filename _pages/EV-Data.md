@@ -6,5 +6,8 @@ tags:
   - data
   - EV
   - dataset
+redirect_from: 
+  - "/evdata/"
+  - "/evdata.html"
 ---
 
