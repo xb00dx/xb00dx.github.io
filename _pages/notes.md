@@ -7,17 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-## [Collection of Excellent Courses](https://github.com/xb00dx/Online-Courses)
+### Some Topics
+- [Collection of Excellent Courses](https://github.com/xb00dx/Online-Courses)
+- [Optimization](/optimization/)
+- [Programming](/programming/)
+- [Software](/software/) 
+- [Power System](/ps/)
 
-## [Optimization](/optimization/)
-
-## [Programming](/programming/)
-
-## [Software](/software/) 
-
-## [Power System](/ps/)
-
-## [Others](/other-notes/)
+### LaTeX
 
 LaTeX figures:
 

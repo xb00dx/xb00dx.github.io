@@ -36,3 +36,6 @@ author_profile: true
 - [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), Textbook by Prof. Stephen P.Boyd and Prof. Lieven Vandenberghe
 - Convex Analysis by Professor R.T.Rockafellar
 - [Semidefinite Optimization and Convex Algebraic Geometry, a book](http://www.mit.edu/~parrilo/sdocag/)
+
+
+[In Memoriam: Shabbir Ahmed: Prof. Shabbir Ahmed](/files/Shabbir-Ahmed-ICSP2019.pdf)
