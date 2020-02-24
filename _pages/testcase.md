@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Datasets for Power System Research"
-permalink: /Test-Cases/
+permalink: /testcase/
 author_profile: true
 tags:
   - data
@@ -9,7 +9,6 @@ tags:
   - ieee
   - dataset
 redirect_from: 
-  - "/testcase/"
   - "/testcase.html"
 ---
 
