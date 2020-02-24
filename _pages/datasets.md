@@ -12,5 +12,5 @@ author_profile: true
 - [ALPA-E GridData](https://arpa-e.energy.gov/?q=programs/grid-data)
 
 ## Datasets
-- [Benchmark Transmission&Distribution Systems](/testcase/)
-- [Electric Vehicle Datasets](/evdata/)
+- [Benchmark Transmission&Distribution Systems](/testcase.html)
+- [Electric Vehicle Datasets](/evdata.html)
