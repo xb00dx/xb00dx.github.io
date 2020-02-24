@@ -3,11 +3,15 @@ layout: archive
 title: "Datasets for Power System Research"
 permalink: /testcase/
 author_profile: true
+tags:
+  - data
+  - benchmark
+  - ieee
+  - dataset
+redirect_from: 
+  - "/testcase/"
+  - "/testcase.html"
 ---
-
-
-## Some Useful Links
-
 
 ## Test Cases for OPF-related Studies
 
@@ -26,6 +30,8 @@ author_profile: true
 
 Sources of Data
 - [BetterGrids.org](https://db.bettergrids.org/)
+- [Columbia Synthetic Power Grids](https://wimnet.ee.columbia.edu/portfolio/synthetic-power-grids-data-sets/)
+- [ComplexNetWiki](https://github.com/ComplexNetTSP/ComplexNetWiki/wiki/PowerGrid-datasets)
 
 ## IEEE Standard Test Cases
 Transmission Steady-State
