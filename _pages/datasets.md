@@ -8,5 +8,5 @@ author_profile: true
 ## Useful Links
 
 ## Datasets
-- [Benchmark Transmission&Distribution Systems](/datasets/testcase/)
-- [Electric Vehicle Datasets](/datasets/ev/)
+- [Benchmark Transmission&Distribution Systems](/testcase/)
+- [Electric Vehicle Datasets](/ev/data)

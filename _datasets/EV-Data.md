@@ -1,7 +1,7 @@
 ---
 title: "EV Datasets"
 excerpt: "Datasets Related with Electric Vehicles"
-permalink: /datasets/ev/
+permalink: /evdata/
 tags:
   - data
   - EV

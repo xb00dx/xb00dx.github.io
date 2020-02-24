@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Datasets for Power System Research"
-permalink: /datasets/testcase/
+permalink: /testcase/
 author_profile: true
 ---
 
