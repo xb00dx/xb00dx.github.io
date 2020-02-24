@@ -6,8 +6,6 @@ tags:
   - data
   - EV
   - dataset
-redirect_from: 
-  - "/evdata.html"
 ---
 
 ## Dataset related with Electric Vehicle
