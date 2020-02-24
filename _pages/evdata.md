@@ -16,3 +16,6 @@ tags:
 	- many more than EV data, e.g., solar generation, HVAC useage, other appliances
 
 ### Driving Behaviors
+[Driving Cycle](https://en.wikipedia.org/wiki/Driving_cycle)
+- [recent] 
+- [Obsolete] New European Driving Cycle (1997), Dynamic Driving Cycle 
