@@ -11,11 +11,6 @@ redirect_from:
 - A passionate researcher with interests in decision making under uncertainties (robust/stochastic/chance-constrained optimization), machine learning/data science/statistical learning.
 - An engineer with specialized expertise in power system economics/operations and optimization theory.
 
-> Eventually I found something that deeply and constantly attacts me and makes my life meaningful.
-> Everyday is inspiring, as I am stimulated by the gifted students, talented colleagues and dedicated mentors.
-> Everyday is fulfilling, since I meet with friends that I love and scholars I respect.
-> Everyday is exciting, I'm trying to understand this world and making it better.
-
 ## News 
 - \[Jan.2020\] Officially started my postdoc, holding a joint position at Cornell University and Texas A&M University.
 - \[Dec.2019\] Road trip to National Parks in Texas and New Mexico.
