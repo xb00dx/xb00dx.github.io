@@ -1,6 +1,6 @@
 ---
 title: 'Datasets for Demand-related Studies'
-date: 2012-08-14
+date: 2020-05-27
 permalink: /posts/demand-data/
 tags:
   - dataset
