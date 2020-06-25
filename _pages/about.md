@@ -12,6 +12,7 @@ redirect_from:
 - An engineer with specialized expertise in power system economics/operations and optimization theory.
 
 ## News 
+- \[May.2020\] blog post with datasets for demand-related studies (EV, NILM, DR, etc)
 - \[Jan.2020\] Officially started my postdoc, holding a joint position at Cornell University and Texas A&M University.
 - \[Dec.2019\] Road trip to National Parks in Texas and New Mexico.
 - \[Dec.2019\] Attended my PhD graduation ceremony at College Station, TX. Now officially Dr. Geng!
