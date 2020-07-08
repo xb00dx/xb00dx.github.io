@@ -11,15 +11,14 @@ tags:
 
 This post summarizes a collection of power system datasets for demand-related studies such as demand response (DR) and non-intrusive load monitoring (NILM).
 
+weather data: http://www.ncdc.noaa.gov, hourly temperature data from the National Climatic Data Center
 
-## Dataset related with Electric Vehicle
-### Charging Behaviors
-- [Caltech ACN Data](https://ev.caltech.edu/dataset)
-	- detailed EV data: arrival, (user estimated) departure time, (actual) departure time, kWh, (estimated and actual) length of a session, efficiency
-- [PecanStreet](https://www.pecanstreet.org/dataport/about/)
-	- many more than EV data, e.g., solar generation, HVAC useage, other appliances
+The National Energy Modeling System (NEMS) reported itemized residential load profiles in [45], which are interpreted in [28] to produce a single home daily load profile. 
+[45] in NEMS, 2001 [Online]. Available: http://www.onlocationinc.com/
+LoadShapesReload2001.pdf, Reload database documentation and
+evaluation and use in NEMS. [Online]. Available
+[28] S. Shao, M. Pipattanasomporn, and S. Rahman, “Challenges of PHEV
+penetration to the residential distribution network,” in Proceedings of
+the IEEE Power & Energy Society General Meeting, Minneapolis, July
+2009
 
-### Driving Behaviors
-[Driving Cycle](https://en.wikipedia.org/wiki/Driving_cycle)
-- [recent] 
-- [Obsolete] New European Driving Cycle (1997), Dynamic Driving Cycle 

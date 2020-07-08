@@ -48,7 +48,70 @@ Features I care
 - Contingency
 
 Distribution systems
-- s
+
+- case4_dist
+- case18:
+  - Power flow data for 18 bus distribution system
+    %    Please see CASEFORMAT for details on the case file format.
+    %
+    %    Data from ...
+    %       W. M. Grady, M. J. Samotyj and A. H. Noyola, "The application of
+    %       network objective functions for actively minimizing the impact of
+    %       voltage harmonics in power systems," IEEE Transactions on Power
+    %       Delivery, vol. 7, no. 3, pp. 1379-1386, Jul 1992.
+    %       https://doi.org/10.1109/61.141855
+- case22:
+  - Power flow data for 22 bus distribution system
+    %    Please see CASEFORMAT for details on the case file format.
+    %
+    %    Data from ...
+    %       M. Ramalinga Raju, K.V.S. Ramachandra Murthy, K. Ravindra,
+    %       Direct search algorithm for capacitive compensation in radial
+    %       distribution systems, International Journal of Electrical Power &
+    %       Energy Systems, Volume 42, Issue 1, November 2012, Pages 24-30
+    %       https://doi.org/10.1016/j.ijepes.2012.03.006
+- case33bw
+  - %CASE33BW  Power flow data for 33 bus distribution system from Baran & Wu
+    %    Please see CASEFORMAT for details on the case file format.
+    %
+    %    Data from ...
+    %       M. E. Baran and F. F. Wu, "Network reconfiguration in distribution
+    %       systems for loss reduction and load balancing," in IEEE Transactions
+    %       on Power Delivery, vol. 4, no. 2, pp. 1401-1407, Apr 1989.
+    %       doi: 10.1109/61.25627
+    %       URL: http://doi.org/10.1109/61.25627
+- case69
+  - %CASE69  Power flow data for 69 bus distribution system
+    %    Please see CASEFORMAT for details on the case file format.
+    %
+    %    Data from ...
+    %       D. Das, Optimal placement of capacitors in radial distribution
+    %       system using a Fuzzy-GA method, International Journal of Electrical
+    %       Power & Energy Systems, Volume 30, Issues 6–7, July–September 2008,
+    %       Pages 361-367
+    %       https://doi.org/10.1016/j.ijepes.2007.08.004
+- case85:
+  - %CASE85  Power flow data for 85 bus distribution system
+    %    Please see CASEFORMAT for details on the case file format.
+    %
+    %    Data from ...
+    %       D. Das, D.P. Kothari, A. Kalam, Simple and efficient method for
+    %       load flow solution of radial distribution networks, International
+    %       Journal of Electrical Power & Energy Systems, Volume 17, Issue 5,
+    %       1995, Pages 335-346.
+    %       https://doi.org/10.1016/0142-0615(95)00050-0
+- case141:
+  - %CASE141  Power flow data for 141 bus distribution system
+    %    Please see CASEFORMAT for details on the case file format.
+    %
+    %    Data from ...
+    %       H.M. Khodr, F.G. Olsina, P.M. De Oliveira-De Jesus, J.M. Yusta,
+    %       Maximum savings approach for location and sizing of capacitors in
+    %       distribution systems, Electric Power Systems Research, Volume 78,
+    %       Issue 7, July 2008, Pages 1192-1203
+    %       https://doi.org/10.1016/j.epsr.2007.10.002
+
+
 
 - NREL118  [^pena2019] 
 	- NREL 118 bus system
