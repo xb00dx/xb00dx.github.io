@@ -29,7 +29,7 @@ Please be aware of other free computing resources
 	- On Linux: Congrats! You made the right choice of OS!
 
 ### A little more
-- Github, **Free TAMU Github Accounts** [here](https://github.tamu.edu). After Acquired by Microsoft, Github provides free private repos (with limited collaborators). Make sure you are familiar with `git add`, `git commit -m`, `git push`, `git pull`, `git rebase`
+- Github, **Free TAMU Github Accounts** [here](https://github.tamu.edu). After acquired by Microsoft, Github provides free private repos (with limited collaborators). Make sure you are familiar with `git add`, `git commit -m`, `git push`, `git pull`, `git rebase`
 - Code editor: VIM, [an interactive tutorial](https://www.openvim.com/), [VIM primer](https://danielmiessler.com/study/vim/) [VIM cheatsheet](https://vim.rtorr.com/). Try to use numerous plugins of VIM: [best ones here](https://vimawesome.com/). Just for fun: [Emacs versus VIM](https://en.wikipedia.org/wiki/Editor_war)
 - Knowledge about Bash is also helpful, [learn bash in Y minutes](https://learnxinyminutes.com/docs/bash/)
 
@@ -60,13 +60,13 @@ You need to replace `NETID` below with your own netid
 - TAMU HPRC staff provide detailed and excellent guides to beginners, make sure you *carefully* read through these pages: [Ada Quick Start Guide](https://hprc.tamu.edu/wiki/Ada:QuickStart), [Terra Quick Start Guide](https://hprc.tamu.edu/wiki/Terra:QuickStart)
 
 ### Basic Usage
-**Suggestions: **
+**Suggestions:**
 - Test your code on small cases locally (your laptop), try avoiding debugging on HPRC since it could be hard if you are used to IDEs 
-- Use folder `/scratch/user/NETID/` if you need more storage space (upto 1T), the home foder `/home/NETID/` is limited (10GB)
+- Use folder `/scratch/user/NETID/` if you need more storage space (up to 1T), the home folder `/home/NETID/` is limited (10GB)
 
 Submit jobs:
 - **Matlab Users**, HPRC provides a good tool `matlabsubmit`, see usage [here](https://hprc.tamu.edu/wiki/SW:Matlab_matlabsubmit) 
-- **Other Users**: use `qsub` with various options. Some other comonly used commands (note: all these commands have detailed explanations in the quick-start-guide of every cluster)
+- **Other Users**: use `qsub` with various options. Some other commonly used commands (note: all these commands have detailed explanations in the quick-start-guide of every cluster)
   - `qsub`: submit a job to HPRC (common options `-w`)
   - `bjobs`: check job status
   - `bkill XXXX`: cancel a job
