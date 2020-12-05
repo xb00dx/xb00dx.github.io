@@ -25,5 +25,10 @@ LaTeX figures:
   - `\usepackage{pstool}` to enable compiling using pdflatex
   - compiling command: `pdflatex --shell-escape YOURTEX.tex`
 
+### Markdown
+- [equations in github pages](https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages)
+- personall chose kramdown over redcarpet 
+- [latex equations in github markdown](https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog)
 
 
+$$a^2 + b^2 = c^2$$
