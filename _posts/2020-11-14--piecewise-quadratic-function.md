@@ -12,11 +12,9 @@ The generator offers are piecewise linear marginal cost function.
 Motivated by the electricity market example
 
 
-Problem Description
-======
+## Problem Description
 
-Solution 1: introducing binary variables
-------
+### Solution 1: introducing binary variables
 
 Solution 2: define black-box type objective functions
 ------
@@ -33,8 +31,8 @@ Example
 
 $$f(x) = 
 \begin{cases}
-x^2,& if 0 \le x < 1 \\
-f(x) = 10 x^2 - 9,& \text{if} 1 \le x
+x^2,& \text{if} 0 \le x < 1 \\
+10 x^2 - 9,& \text{if} 1 \le x
 \end{cases}
 $$
 
