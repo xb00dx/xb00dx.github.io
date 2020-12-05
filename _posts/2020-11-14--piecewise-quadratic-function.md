@@ -25,8 +25,19 @@ Solution 3: formulate epigraph with additional variables
 ------
 
 
-YALMIP Code
+A simple example
 ======
+
+Example
+------
+
+$$f(x) = x^2, if 0 \le x < 1$$
+
+$$f(x) = 10 x^2 - 9, if 1 \le x $$
+
+
+YALMIP code
+------
 
 
 More Thoughts
@@ -36,4 +47,4 @@ Limitations
 ------
 
 
-Thanks Dr. Johan for suggestions.
+Thanks Dr. Johan Löfberg for suggestions.
