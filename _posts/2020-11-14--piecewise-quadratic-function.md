@@ -33,7 +33,7 @@ Example
 
 $$f(x) = x^2, if 0 \le x < 1$$
 
-$$f(x) = 10 x^2 - 9, if 1 \le x $$
+$$f(x) = 10 x^2 - 9, \text{if} 1 \le x $$
 
 
 YALMIP code
