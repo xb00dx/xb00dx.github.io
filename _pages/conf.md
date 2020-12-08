@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 ### Power System Conferences
-| Conferences                                                                        | Abstract DDL | Paper DDL    | Date                | Location     | Status            |
+
+| Conferences  | Abstract DDL | Paper DDL    | Date                | Location     | Status            |
 |------------------------------------------------------------------------------------|--------------|--------------|---------------------|--------------|-------------------|
 | [PESGM 2021](http://pes-gm.org)  | -            | Nov.16.2020 | July.25-29.2020 | Washington, DC | submitted  |
 | [ACM e-Energy 2021](https://energy.acm.org/conferences/eenergy/2021/)       | January.27.2021            |    February.03.2021     |  June.28-July.02.2021    | Torino, Italy |    -           |
