@@ -12,6 +12,7 @@ redirect_from:
 - An engineer with specialized expertise in power system economics/operations and optimization theory.
 
 ## News 
+- \[Jan.2021\] [PSERC Report LaTeX Template](https://github.com/xb00dx/PSERC-LaTeX-Template) available on Github.
 - \[Aug.2020\] Giving a short tutorial on using TAMU High Performance Research Computing (HPRC) clusters, [details here](https://xb00dx.github.io/posts/tamu-hprc/), at the How to be "cloud-ready" for conducting power/energy research virtual workshop.
 - \[May.2020\] blog post with datasets for demand-related studies (EV, NILM, DR, etc)
 - \[Jan.2020\] Officially started my postdoc, holding a joint position at Cornell University and Texas A&M University.

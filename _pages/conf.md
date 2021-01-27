@@ -45,7 +45,7 @@ redirect_from:
 
 | Conferences                                                                        | Abstract DDL | Paper DDL    | Date                | Location     | Status            |
 |------------------------------------------------------------------------------------|--------------|--------------|---------------------|--------------|-------------------|
-| [CDC 2021](http://cdc2021.ieeecss.org/)      | -            |    March.04.2020 |  December.13-15.2021                   | Austin, Texas |   -        |
+| [CDC 2021](http://cdc2021.ieeecss.org/)      | -            |    March.04.2021 |  December.13-15.2021                   | Austin, Texas |   -        |
 | [Allerton 2021](http://publish.illinois.edu/cslallertonconference/files/2020/04/Allerton-Call-for-Papers-20202021.pdf)                                               | -            | July.06.2021  | Sep.29-Oct.01.2021      | UIUC |  -               |
 | **Outdated**   | -            | - | -   | - | - |
 | [INFORMS 2019](http://meetings2.informs.org/wordpress/seattle2019/) | May.15.2019  | -            | October.20-23.2019 | Seattle, WA   |  -          |

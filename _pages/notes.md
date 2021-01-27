@@ -32,3 +32,5 @@ LaTeX figures:
 
 
 $$a^2 + b^2 = c^2$$
+
+[python style guide](https://www.python.org/dev/peps/pep-0008/)
