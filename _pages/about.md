@@ -13,6 +13,9 @@ redirect_from:
 
 ## News 
 - \[Jan.2021\] [PSERC Report LaTeX Template](https://github.com/xb00dx/PSERC-LaTeX-Template) available on Github.
+- \[Jan.2021\] New manuscript [Deferrable Load Scheduling under Demand Charge: A Block Model-Predictive Control Approach](https://arxiv.org/abs/2012.14624) available on ArXiV. The proposed B-MPC approach breaks the demand charge (happening at the end of control horizon) into a sequence of stage-costs. Comprehensive numerical results show that BMPC outperforms many benchmark  methods (nominal MPC, Economic MPC, earliest deadline first, and least-laxity-first later-deadline) in various settings.
+- \[Nov.2020\] New manuscript [Probabilistic Hosting Capacity Analysis via Bayesian Optimization](https://arxiv.org/abs/2011.05193) available on ArXiV. Probabilistic hosting capacity evaluation problem is non-convex and computational expensive to check feasibility of candidate solutions. We propose a framework using Bayesian Optimization to find the global optimal solutions.
+- \[Oct.2020\] Updated manuscript [Computing Essential Sets for Convex and Non-convex Scenario Problems: Theory and Application](https://arxiv.org/abs/1910.07672) available on ArXiV. We solve chance-constrained convex/non-convex problems using the scenario approach, and obtain probabilistic guarantees on the feasibility of optimal solutions.
 - \[Aug.2020\] Giving a short tutorial on using TAMU High Performance Research Computing (HPRC) clusters, [details here](https://xb00dx.github.io/posts/tamu-hprc/), at the How to be "cloud-ready" for conducting power/energy research virtual workshop.
 - \[May.2020\] blog post with datasets for demand-related studies (EV, NILM, DR, etc)
 - \[Jan.2020\] Officially started my postdoc, holding a joint position at Cornell University and Texas A&M University.
