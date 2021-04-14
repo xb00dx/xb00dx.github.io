@@ -10,15 +10,11 @@ tags:
 
 Science as a Vocation by Max Weber
 
-Wissenschaft als Beruf,	 from Gesammlte Aufsaetze zur Wissenschaftslehre (Tubingen, 1922), pp. 524‐55.
 
-Originally delivered as a speech at Munich University, 1918. Published in 1919 by Duncker & Humblodt, Munich.
+- Wissenschaft als Beruf,	 from Gesammlte Aufsaetze zur Wissenschaftslehre (Tubingen, 1922), pp. 524‐55. Originally delivered as a speech at Munich University, 1918. Published in 1919 by Duncker & Humblodt, Munich.
 
+- From H.H. Gerth and C. Wright Mills (Translated and edited), From Max Weber: Essays in Sociology, pp. 129-156, New York: Oxford University Press, 1946.
 
-
-
-
-From H.H. Gerth and C. Wright Mills (Translated and edited), From Max Weber: Essays in Sociology, pp. 129-156, New York: Oxford University Press, 1946.
 
 You wish me to speak about 'Science as a Vocation.' Now, we political economists have a pedantic custom, which I should like to follow, of always beginning with the external conditions. In this case, we begin with the question: What are the conditions of science as a vocation in the material sense of the term? Today this question means, practically and essentially: What are the prospects of a graduate student who is resolved to dedicate himself professionally to science in university life? In order to understand the peculiarity of German conditions it is expedient to proceed by comparison and to realize the conditions abroad. In this respect, the United States stands in the sharpest contrast with Germany, so we shall focus upon that country.
 
@@ -92,7 +88,7 @@ What stand should one take? Has 'progress' as such a recognizable meaning that g
 
 Here the contrast between the past and the present is tremendous. You will recall the wonderful image at the beginning of the seventh book of Plato's Republic: those enchained cavemen whose faces are turned toward the stone wall before them. Behind them lies the source of the light which they cannot see. They are concerned only with the shadowy images that this light throws upon the wall, and they seek to fathom their interrelations. Finally one of them succeeds in shattering his fetters, turns around, and sees the sun. Blinded, he gropes about and stammers of what he saw. The others say he is raving. But gradually he learns to behold the light, and then his task is to descend to the cavemen and to lead them to the light. He is the philosopher; the sun, however, is the truth of science, which alone seizes not upon illusions and shadows but upon the true being.
 
-Well, who today views science in such a manner ? Today youth feels rather the reverse: the intellectual constructions of science constitute an unreal realm of artificial abstractions, which with their bony hands seek to grasp the blood-and-the-sap of true life without ever catching up with it. But here in life, in what for Plato was the play of shadows on the walls of the cave, genuine reality is pulsating; and the rest are derivatives of life, lifeless ghosts, and nothing else. How did this change come about?
+Well, who today views science in such a manner? Today youth feels rather the reverse: the intellectual constructions of science constitute an unreal realm of artificial abstractions, which with their bony hands seek to grasp the blood-and-the-sap of true life without ever catching up with it. But here in life, in what for Plato was the play of shadows on the walls of the cave, genuine reality is pulsating; and the rest are derivatives of life, lifeless ghosts, and nothing else. How did this change come about?
 
 Plato's passionate enthusiasm in The Republic must, in the last analysis, be explained by the fact that for the first time the concept, one of the great tools of all scientific knowledge, had been consciously discovered. Socrates had discovered it in its bearing. He was not the only man in the world to discover it. In India one finds the beginnings of a logic that is quite similar to that of Aristotle's. But nowhere else do we find this realization of the significance of the concept. In Greece, for the first time, appeared a handy means by which one could put the logical screws upon somebody so that he could not come out without admitting either that he knew nothing or that this and nothing else was truth, the eternal truth that never would vanish as the doings of the blind men vanish. That was the tremendous experience which dawned upon the disciples of Socrates. And from this it seemed to follow that if one only found the right concept of the beautiful, the good, or, for instance, of bravery, of the soul--or whatever--that then one could also grasp its true being. And this, in turn, seemed to open the way for knowing and for teaching how to act rightly in life and, above all, how to act as a citizen of the state; for this question was everything to the Hellenic man, whose thinking was political throughout. And for these reasons one engaged in science.
 
