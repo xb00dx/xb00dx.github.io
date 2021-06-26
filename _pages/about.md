@@ -12,7 +12,7 @@ redirect_from:
 - An engineer with specialized expertise in power system economics/operations and optimization theory.
 
 ## News 
-- \[Apr.2021\] I've made the hard decision to leave academia. Max Weber gave a speech titled [Science as a Vocation](https://xb00dx.github.io/posts/2011/04/Science-as-a-Vocation/) in 1922, many paragraphs are still enlightening 100 years later.
+- \[Apr.2021\] I've made the hard decision to leave academia. Max Weber gave a speech titled [Science as a Vocation](https://xb00dx.github.io/posts/2011/04/Science-as-a-Vocation/) in 1922, many paragraphs are still enlightening 100 years later.	
 - \[Jan.2021\] [PSERC Report LaTeX Template](https://github.com/xb00dx/PSERC-LaTeX-Template) available on Github.
 - \[Jan.2021\] New manuscript [Deferrable Load Scheduling under Demand Charge: A Block Model-Predictive Control Approach](https://arxiv.org/abs/2012.14624). The proposed B-MPC approach breaks the demand charge (happening at the end of control horizon) into a sequence of stage-costs. Comprehensive numerical results show that BMPC outperforms many benchmark  methods (nominal MPC, economic MPC, online algorithms such as earliest deadline first, and least-laxity-first later-deadline) in various settings.
 - \[Nov.2020\] New manuscript [Probabilistic Hosting Capacity Analysis via Bayesian Optimization](https://arxiv.org/abs/2011.05193). Probabilistic hosting capacity evaluation problem is non-convex and computational expensive to check the feasibility of candidate solutions. We propose a framework using Bayesian Optimization to find the global optimal solutions.

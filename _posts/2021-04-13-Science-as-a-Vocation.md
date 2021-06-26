@@ -8,7 +8,7 @@ tags:
   - reflection
 ---
 
-Science as a Vocation by Max Weber
+Science as a Vocation by Max Weber, [pdf](http://www.wisdom.weizmann.ac.il/~oded/X/WeberScienceVocation.pdf)
 
 
 - Wissenschaft als Beruf,	 from Gesammlte Aufsaetze zur Wissenschaftslehre (Tubingen, 1922), pp. 524‐55. Originally delivered as a speech at Munich University, 1918. Published in 1919 by Duncker & Humblodt, Munich.

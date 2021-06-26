@@ -15,15 +15,16 @@ redirect_from:
 | **Upcoming**   | -            | - | -   | - | - |
 |  [PSCC](https://pscc-central.epfl.ch/next-pscc)     |  -    |  -   |         June.27–July.01, 2022            |      Porto, Portugal        |              - |
 | **Happening**   | -            | - | -   | - | - |
-| [PowerTech 2019](https://www.powertech2021.com/)       | -           |   Nov.30.2020    |  June.27-July.02.2021    | Madrid, Spain |    -           |
-| [ISGN NA 2020](https://ieee-isgt.org/)      | -            |   October.02.2020      |  February.16-18.2021                  |          Virtual    |         -          |
+| [ACM e-Energy 2021](https://energy.acm.org/conferences/eenergy/2021/)       | January.27.2021            |    February.03.2021     |  June.28-July.02.2021    | Torino, Italy |    -           |
+| [PowerTech 2021](https://www.powertech2021.com/)       | -           |   Nov.30.2020    |  June.27-July.02.2021    | Madrid, Spain |    -           |
+| [ISGN NA 2021](https://ieee-isgt.org/)      | -            |   October.02.2020      |  February.16-18.2021                  |          Virtual    |         -          |
 | [PESGM 2021](http://pes-gm.org)  | -            | Nov.16.2020 | July.25-29.2020 | Washington, DC | submitted  |
 | **Outdated**   | -            | - | -   | - | - |
 | [PMAPS](http://aimontefiore.org/PMAPS2020/index.php)   | -            |    February.17.2020          |    August.18-21.2020      |         Liege, Belgium     |                   - |
 | [NAPS](https://ecee.engineering.asu.edu/naps-2020/)   | -            |    June.15.2020       |        October.11-13.2020             |    Tempe, AZ        |                  |
 | [SmartGricComm 2020](https://sgc2020.ieee-smartgridcomm.org/)       | -            |   June.15.2020     |  October.06-09.2020    | Tempe, AZ |    -           |
 | [HICSS-53](http://hicss.hawaii.edu/tracks-and-minitracks/authors/)                 | -            | June.15.2020 | Jan.05-08.2021      | Kauai, HI      | - |
-| [ACM e-Energy 2021](https://energy.acm.org/conferences/eenergy/2021/)       | January.27.2021            |    February.03.2021     |  June.28-July.02.2021    | Torino, Italy |    -           |
+
 
 ### Machine Learning Conferences
 
