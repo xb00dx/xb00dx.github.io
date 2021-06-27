@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - A passionate researcher with interests in decision making under uncertainties (robust/stochastic/chance-constrained optimization), machine learning/data science/statistical learning.
-- An engineer with specialized expertise in power system economics/operations and optimization theory.
+- An analyst/engineer/programmer with specialized expertise in power markets and power system operations.
 
 ## News 
 - \[Apr.2021\] I've made the hard decision to leave academia. Max Weber gave a speech titled [Science as a Vocation](https://xb00dx.github.io/posts/2011/04/Science-as-a-Vocation/) in 1922, many paragraphs are still enlightening 100 years later.	
